@@ -1,5 +1,5 @@
 {
- "generated_at_mst": "2026-11-09 21:10 MST",
+ "generated_at_mst": "2026-11-09 21:16 MST",
  "group": {
   "name": "Limones Verdes Albuquerque",
   "id": "2292669074800742",
@@ -13,11 +13,11 @@
   "last": "2026-11-09"
  },
  "counts": {
-  "mapped_last_7d": 64,
-  "mapped_last_3d": 52,
+  "mapped_last_7d": 70,
+  "mapped_last_3d": 58,
   "posts_last_7d": 144,
   "posts_last_3d": 109,
-  "unmappable_last_7d": 78,
+  "unmappable_last_7d": 72,
   "unpinned_last_7d": 3
  },
  "entries": [
@@ -788,6 +788,78 @@
    "lat": 35.08146,
    "lon": -106.62691,
    "geocoded_as": "Central Ave & University Blvd NE, Albuquerque, NM 87106, United States"
+  },
+  {
+   "post_id": "wa-20261109-1803-eubank-menaul",
+   "url": "",
+   "time_local": "2026-11-09 18:03",
+   "date": "2026-11-09",
+   "type": "all-clear",
+   "location": "Eubank Blvd y Menaul Blvd NE",
+   "summary": "Recorrido por Menaul, de Eubank a Carlisle, despejado. Reporte de WhatsApp, grupo Limones verdes ABQ.",
+   "lat": 35.10886,
+   "lon": -106.53318,
+   "geocoded_as": "Eubank Blvd NE & Menaul Blvd NE"
+  },
+  {
+   "post_id": "wa-20261109-1809-san-pedro-central",
+   "url": "",
+   "time_local": "2026-11-09 18:09",
+   "date": "2026-11-09",
+   "type": "help",
+   "location": "San Pedro Dr y Central Ave SE",
+   "summary": "Ofrecimiento de vigilar el tramo de Central entre San Pedro y Girard, rumbo a UNM, y avisar si se nota algo. Reporte de WhatsApp, grupo Limones verdes ABQ.",
+   "lat": 35.07676,
+   "lon": -106.5775,
+   "geocoded_as": "Central Ave & San Pedro Dr SE"
+  },
+  {
+   "post_id": "wa-20261109-1809-pennsylvania-montgomery",
+   "url": "",
+   "time_local": "2026-11-09 18:09",
+   "date": "2026-11-09",
+   "type": "all-clear",
+   "location": "Pennsylvania St y Montgomery Blvd NE",
+   "summary": "Despejado en Pennsylvania y Montgomery. Reporte de WhatsApp, grupo Limones verdes ABQ.",
+   "lat": 35.13068,
+   "lon": -106.55988,
+   "geocoded_as": "Montgomery Blvd NE & Pennsylvania St NE"
+  },
+  {
+   "post_id": "wa-20261109-2000-unser-blake",
+   "url": "",
+   "time_local": "2026-11-09 20:00",
+   "date": "2026-11-09",
+   "type": "all-clear",
+   "location": "Unser Blvd y Blake Rd SW",
+   "summary": "Tranquilo en Unser y Blake, solo tráfico. Reporte de WhatsApp, grupo Limones verdes ABQ.",
+   "lat": 35.0385,
+   "lon": -106.72802,
+   "geocoded_as": "Blake Rd SW & Unser Blvd SW"
+  },
+  {
+   "post_id": "wa-20261109-2110-coors-tower",
+   "url": "",
+   "time_local": "2026-11-09 21:10",
+   "date": "2026-11-09",
+   "type": "alert",
+   "location": "Coors Blvd y Tower Rd SW",
+   "summary": "Video grabado alrededor de las 18:00 en Coors y Tower, compartido para estar pendientes. Reporte de WhatsApp, grupo Limones verdes ABQ.",
+   "lat": 35.06606,
+   "lon": -106.71039,
+   "geocoded_as": "Coors Blvd SW & Tower Rd SW"
+  },
+  {
+   "post_id": "julio-20261109-2116-mlk-locust",
+   "url": "",
+   "time_local": "2026-11-09 21:16",
+   "date": "2026-11-09",
+   "type": "all-clear",
+   "location": "Dr Martin Luther King Jr Ave y Locust St NE",
+   "summary": "Reporte de Julio: todo tranquilo por la zona, no se ve ningún carro en las calles de alrededor.",
+   "lat": 35.08522,
+   "lon": -106.63687,
+   "geocoded_as": "Dr Martin Luther King Jr Ave NE & Locust St NE, Albuquerque, NM 87102, United States"
   }
  ],
  "archive": [
