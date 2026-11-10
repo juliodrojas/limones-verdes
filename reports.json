@@ -1,5 +1,5 @@
 {
- "generated_at_mst": "2026-11-09 19:56 MST",
+ "generated_at_mst": "2026-11-09 20:31 MST",
  "group": {
   "name": "Limones Verdes Albuquerque",
   "id": "2292669074800742",
@@ -668,7 +668,7 @@
    "location_hint": "",
    "has_text": false,
    "reacts": 1,
-   "comments": 0
+   "comments": 1
   },
   {
    "post_id": "2317487385652244",
@@ -700,8 +700,8 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 32,
-   "comments": 13
+   "reacts": 37,
+   "comments": 15
   },
   {
    "post_id": "2317467272320922",
@@ -755,7 +755,7 @@
    "type": "info",
    "location_hint": "Central, Wyoming",
    "has_text": true,
-   "reacts": 20,
+   "reacts": 21,
    "comments": 1
   },
   {
@@ -766,7 +766,7 @@
    "type": "info",
    "location_hint": "Bridge",
    "has_text": true,
-   "reacts": 25,
+   "reacts": 26,
    "comments": 0
   },
   {
@@ -777,7 +777,7 @@
    "type": "info",
    "location_hint": "Coors, I-40",
    "has_text": true,
-   "reacts": 31,
+   "reacts": 33,
    "comments": 1
   },
   {
@@ -821,7 +821,7 @@
    "type": "alert",
    "location_hint": "Central, Wyoming",
    "has_text": true,
-   "reacts": 62,
+   "reacts": 63,
    "comments": 28
   },
   {
@@ -843,7 +843,7 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 15,
+   "reacts": 16,
    "comments": 0
   },
   {
@@ -876,7 +876,7 @@
    "type": "help",
    "location_hint": "Eubank, Lomas",
    "has_text": true,
-   "reacts": 158,
+   "reacts": 160,
    "comments": 25
   },
   {
@@ -887,7 +887,7 @@
    "type": "all-clear",
    "location_hint": "",
    "has_text": true,
-   "reacts": 26,
+   "reacts": 28,
    "comments": 0
   },
   {
@@ -909,7 +909,7 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 55,
+   "reacts": 56,
    "comments": 4
   },
   {
@@ -953,7 +953,7 @@
    "type": "alert",
    "location_hint": "Rio Bravo, Broadway, Maverick",
    "has_text": true,
-   "reacts": 69,
+   "reacts": 71,
    "comments": 9
   },
   {
@@ -986,8 +986,8 @@
    "type": "alert",
    "location_hint": "Andaluz",
    "has_text": true,
-   "reacts": 57,
-   "comments": 6
+   "reacts": 58,
+   "comments": 7
   },
   {
    "post_id": "2317246172343032",
@@ -1008,7 +1008,7 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 6,
+   "reacts": 8,
    "comments": 0
   },
   {
@@ -1085,7 +1085,7 @@
    "type": "alert",
    "location_hint": "",
    "has_text": true,
-   "reacts": 18,
+   "reacts": 19,
    "comments": 3
   },
   {
@@ -1129,7 +1129,7 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 40,
+   "reacts": 45,
    "comments": 13
   },
   {
@@ -1151,7 +1151,7 @@
    "type": "all-clear",
    "location_hint": "Coors, Rio Bravo, Blake",
    "has_text": true,
-   "reacts": 17,
+   "reacts": 18,
    "comments": 0
   },
   {
@@ -1228,7 +1228,7 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 21,
+   "reacts": 22,
    "comments": 0
   },
   {
@@ -1239,7 +1239,7 @@
    "type": "alert",
    "location_hint": "Coors",
    "has_text": true,
-   "reacts": 73,
+   "reacts": 75,
    "comments": 4
   },
   {
@@ -1272,7 +1272,7 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 79,
+   "reacts": 159,
    "comments": 1
   },
   {
@@ -1283,7 +1283,7 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 61,
+   "reacts": 63,
    "comments": 6
   },
   {
@@ -1305,7 +1305,7 @@
    "type": "all-clear",
    "location_hint": "Isleta, Meadow Lake",
    "has_text": true,
-   "reacts": 29,
+   "reacts": 30,
    "comments": 1
   },
   {
@@ -1327,7 +1327,7 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 128,
+   "reacts": 133,
    "comments": 17
   },
   {
@@ -1371,7 +1371,7 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 25,
+   "reacts": 26,
    "comments": 0
   },
   {
@@ -1393,7 +1393,7 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 374,
+   "reacts": 394,
    "comments": 27
   },
   {
@@ -1404,7 +1404,7 @@
    "type": "alert",
    "location_hint": "",
    "has_text": true,
-   "reacts": 187,
+   "reacts": 194,
    "comments": 53
   },
   {
@@ -1437,7 +1437,7 @@
    "type": "info",
    "location_hint": "Central, Wyoming",
    "has_text": true,
-   "reacts": 208,
+   "reacts": 214,
    "comments": 15
   },
   {
@@ -1481,7 +1481,7 @@
    "type": "alert",
    "location_hint": "",
    "has_text": true,
-   "reacts": 103,
+   "reacts": 104,
    "comments": 14
   },
   {
@@ -1624,7 +1624,7 @@
    "type": "info",
    "location_hint": "Menaul",
    "has_text": true,
-   "reacts": 170,
+   "reacts": 173,
    "comments": 5
   },
   {
@@ -1635,7 +1635,7 @@
    "type": "alert",
    "location_hint": "",
    "has_text": true,
-   "reacts": 104,
+   "reacts": 105,
    "comments": 7
   },
   {
@@ -1690,7 +1690,7 @@
    "type": "info",
    "location_hint": "Southern, Inca",
    "has_text": true,
-   "reacts": 106,
+   "reacts": 107,
    "comments": 3
   },
   {
@@ -1701,7 +1701,7 @@
    "type": "info",
    "location_hint": "Sage",
    "has_text": true,
-   "reacts": 167,
+   "reacts": 170,
    "comments": 4
   },
   {
@@ -1723,7 +1723,7 @@
    "type": "alert",
    "location_hint": "",
    "has_text": true,
-   "reacts": 84,
+   "reacts": 85,
    "comments": 7
   },
   {
@@ -1734,7 +1734,7 @@
    "type": "alert",
    "location_hint": "Sage",
    "has_text": true,
-   "reacts": 255,
+   "reacts": 258,
    "comments": 37
   },
   {
@@ -1800,7 +1800,7 @@
    "type": "alert",
    "location_hint": "San Mateo, Lomas",
    "has_text": true,
-   "reacts": 326,
+   "reacts": 332,
    "comments": 30
   },
   {
@@ -1888,7 +1888,7 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 238,
+   "reacts": 239,
    "comments": 24
   },
   {
@@ -2042,7 +2042,7 @@
    "type": "alert",
    "location_hint": "",
    "has_text": true,
-   "reacts": 163,
+   "reacts": 165,
    "comments": 12
   },
   {
@@ -2075,7 +2075,7 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 711,
+   "reacts": 720,
    "comments": 57
   },
   {
