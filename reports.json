@@ -1,5 +1,5 @@
 {
- "generated_at_mst": "2026-11-09 19:41 MST",
+ "generated_at_mst": "2026-11-09 19:56 MST",
  "group": {
   "name": "Limones Verdes Albuquerque",
   "id": "2292669074800742",
@@ -7,7 +7,7 @@
   "created": "2026-10-16",
   "members": "~6,000"
  },
- "total_scraped": 180,
+ "total_scraped": 181,
  "scrape_range": {
   "first": "2026-10-16",
   "last": "2026-11-09"
@@ -15,9 +15,9 @@
  "counts": {
   "mapped_last_7d": 53,
   "mapped_last_3d": 41,
-  "posts_last_7d": 141,
-  "posts_last_3d": 106,
-  "unmappable_last_7d": 86,
+  "posts_last_7d": 142,
+  "posts_last_3d": 107,
+  "unmappable_last_7d": 87,
   "unpinned_last_7d": 3
  },
  "entries": [
@@ -660,6 +660,17 @@
  ],
  "archive": [
   {
+   "post_id": "2317553782312271",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2317553782312271/",
+   "time_local": "2026-11-09 19:27",
+   "date": "2026-11-09",
+   "type": "sin-texto",
+   "location_hint": "",
+   "has_text": false,
+   "reacts": 1,
+   "comments": 0
+  },
+  {
    "post_id": "2317487385652244",
    "url": "https://facebook.com/groups/2292669074800742/permalink/2317487385652244/",
    "time_local": "2026-11-09 18:03",
@@ -667,7 +678,7 @@
    "type": "all-clear",
    "location_hint": "Louisiana, Montgomery",
    "has_text": true,
-   "reacts": 4,
+   "reacts": 5,
    "comments": 5
   },
   {
@@ -689,8 +700,8 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 27,
-   "comments": 12
+   "reacts": 32,
+   "comments": 13
   },
   {
    "post_id": "2317467272320922",
@@ -711,7 +722,7 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 3,
+   "reacts": 4,
    "comments": 0
   },
   {
@@ -722,7 +733,7 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 6,
+   "reacts": 7,
    "comments": 0
   },
   {
@@ -744,7 +755,7 @@
    "type": "info",
    "location_hint": "Central, Wyoming",
    "has_text": true,
-   "reacts": 19,
+   "reacts": 20,
    "comments": 1
   },
   {
@@ -755,7 +766,7 @@
    "type": "info",
    "location_hint": "Bridge",
    "has_text": true,
-   "reacts": 24,
+   "reacts": 25,
    "comments": 0
   },
   {
@@ -766,7 +777,7 @@
    "type": "info",
    "location_hint": "Coors, I-40",
    "has_text": true,
-   "reacts": 30,
+   "reacts": 31,
    "comments": 1
   },
   {
@@ -777,7 +788,7 @@
    "type": "info",
    "location_hint": "Eubank, Montgomery",
    "has_text": true,
-   "reacts": 20,
+   "reacts": 21,
    "comments": 3
   },
   {
@@ -810,7 +821,7 @@
    "type": "alert",
    "location_hint": "Central, Wyoming",
    "has_text": true,
-   "reacts": 61,
+   "reacts": 62,
    "comments": 28
   },
   {
@@ -821,7 +832,7 @@
    "type": "info",
    "location_hint": "Central",
    "has_text": true,
-   "reacts": 13,
+   "reacts": 14,
    "comments": 6
   },
   {
@@ -898,7 +909,7 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 54,
+   "reacts": 55,
    "comments": 4
   },
   {
@@ -909,7 +920,7 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 13,
+   "reacts": 15,
    "comments": 0
   },
   {
@@ -931,7 +942,7 @@
    "type": "info",
    "location_hint": "Central",
    "has_text": true,
-   "reacts": 57,
+   "reacts": 58,
    "comments": 9
   },
   {
@@ -942,7 +953,7 @@
    "type": "alert",
    "location_hint": "Rio Bravo, Broadway, Maverick",
    "has_text": true,
-   "reacts": 68,
+   "reacts": 69,
    "comments": 9
   },
   {
@@ -997,7 +1008,7 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 5,
+   "reacts": 6,
    "comments": 0
   },
   {
@@ -1030,7 +1041,7 @@
    "type": "alert",
    "location_hint": "Central, Wyoming",
    "has_text": true,
-   "reacts": 33,
+   "reacts": 34,
    "comments": 3
   },
   {
@@ -1063,7 +1074,7 @@
    "type": "info",
    "location_hint": "Santa Fe",
    "has_text": true,
-   "reacts": 35,
+   "reacts": 36,
    "comments": 12
   },
   {
