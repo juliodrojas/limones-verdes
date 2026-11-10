@@ -1,5 +1,5 @@
 {
- "generated_at_mst": "2026-11-09 21:27 MST",
+ "generated_at_mst": "2026-11-09 21:46 MST",
  "group": {
   "name": "Limones Verdes Albuquerque",
   "id": "2292669074800742",
@@ -778,13 +778,13 @@
    "geocoded_as": "Central Ave SE & Louisiana Blvd SE"
   },
   {
-   "post_id": "julio-20261109-2108-central-university",
-   "url": "",
+   "post_id": "chat-20261109-2108-central-university",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/chat-20261109-2108-central-university/",
    "time_local": "2026-11-09 21:10",
    "date": "2026-11-09",
    "type": "all-clear",
    "location": "Central Ave y University Blvd NE",
-   "summary": "Reporte de Julio: todo tranquilo por la UNM, no se ve ningún carro en la intersección ni en las calles paralelas de la zona.",
+   "summary": "Reporte: todo tranquilo por la UNM, no se ve ningún carro en la intersección ni en las calles paralelas de la zona.",
    "lat": 35.08146,
    "lon": -106.62691,
    "geocoded_as": "Central Ave & University Blvd NE, Albuquerque, NM 87106, United States"
@@ -850,25 +850,25 @@
    "geocoded_as": "Coors Blvd SW & Tower Rd SW"
   },
   {
-   "post_id": "julio-20261109-2116-mlk-locust",
-   "url": "",
+   "post_id": "chat-20261109-2116-mlk-locust",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/chat-20261109-2116-mlk-locust/",
    "time_local": "2026-11-09 21:16",
    "date": "2026-11-09",
    "type": "all-clear",
    "location": "Dr Martin Luther King Jr Ave y Locust St NE",
-   "summary": "Reporte de Julio: todo tranquilo por la zona, no se ve ningún carro en las calles de alrededor.",
+   "summary": "Reporte: todo tranquilo por la zona, no se ve ningún carro en las calles de alrededor.",
    "lat": 35.08522,
    "lon": -106.63687,
    "geocoded_as": "Dr Martin Luther King Jr Ave NE & Locust St NE, Albuquerque, NM 87102, United States"
   },
   {
-   "post_id": "julio-20261109-2121-5th-marquette",
-   "url": "",
+   "post_id": "chat-20261109-2121-5th-marquette",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/chat-20261109-2121-5th-marquette/",
    "time_local": "2026-11-09 21:22",
    "date": "2026-11-09",
    "type": "alert",
    "location": "5th St y Marquette Ave NW",
-   "summary": "ALERTA de Julio: presencia policial en la zona, dos carros de policía, presencia de ICE.",
+   "summary": "ALERTA: presencia policial en la zona, dos carros de policía, presencia de ICE.",
    "lat": 35.08834,
    "lon": -106.65215,
    "geocoded_as": "5th St NW & Marquette Ave NW, Albuquerque, NM 87102, United States"
@@ -883,7 +883,7 @@
    "type": "alert",
    "location_hint": "",
    "has_text": true,
-   "reacts": 3,
+   "reacts": 6,
    "comments": 0
   },
   {
@@ -894,7 +894,7 @@
    "type": "alert",
    "location_hint": "",
    "has_text": true,
-   "reacts": 3,
+   "reacts": 7,
    "comments": 0
   },
   {
@@ -916,7 +916,7 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 3,
+   "reacts": 4,
    "comments": 1
   },
   {
@@ -927,7 +927,7 @@
    "type": "all-clear",
    "location_hint": "Louisiana, Montgomery",
    "has_text": true,
-   "reacts": 6,
+   "reacts": 7,
    "comments": 5
   },
   {
@@ -949,8 +949,8 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 43,
-   "comments": 20
+   "reacts": 48,
+   "comments": 21
   },
   {
    "post_id": "2317467272320922",
@@ -1004,7 +1004,7 @@
    "type": "info",
    "location_hint": "Central, Wyoming",
    "has_text": true,
-   "reacts": 22,
+   "reacts": 23,
    "comments": 1
   },
   {
@@ -1037,7 +1037,7 @@
    "type": "info",
    "location_hint": "Eubank, Montgomery",
    "has_text": true,
-   "reacts": 22,
+   "reacts": 23,
    "comments": 3
   },
   {
@@ -1125,7 +1125,7 @@
    "type": "help",
    "location_hint": "Eubank, Lomas",
    "has_text": true,
-   "reacts": 164,
+   "reacts": 166,
    "comments": 25
   },
   {
@@ -1158,7 +1158,7 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 69,
+   "reacts": 71,
    "comments": 4
   },
   {
@@ -1257,7 +1257,7 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 11,
+   "reacts": 12,
    "comments": 0
   },
   {
@@ -1576,7 +1576,7 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 135,
+   "reacts": 136,
    "comments": 18
   },
   {
