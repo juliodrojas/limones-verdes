@@ -1,5 +1,5 @@
 {
- "generated_at_mst": "2026-11-09 21:46 MST",
+ "generated_at_mst": "2026-11-10 05:45 MST",
  "group": {
   "name": "Limones Verdes Albuquerque",
   "id": "2292669074800742",
@@ -7,17 +7,17 @@
   "created": "2026-10-16",
   "members": "~6,000"
  },
- "total_scraped": 184,
+ "total_scraped": 198,
  "scrape_range": {
   "first": "2026-10-16",
   "last": "2026-11-09"
  },
  "counts": {
-  "mapped_last_7d": 71,
-  "mapped_last_3d": 59,
-  "posts_last_7d": 145,
-  "posts_last_3d": 110,
-  "unmappable_last_7d": 72,
+  "mapped_last_7d": 77,
+  "mapped_last_3d": 65,
+  "posts_last_7d": 159,
+  "posts_last_3d": 124,
+  "unmappable_last_7d": 80,
   "unpinned_last_7d": 3
  },
  "entries": [
@@ -779,7 +779,7 @@
   },
   {
    "post_id": "chat-20261109-2108-central-university",
-   "url": "https://facebook.com/groups/2292669074800742/permalink/chat-20261109-2108-central-university/",
+   "url": "",
    "time_local": "2026-11-09 21:10",
    "date": "2026-11-09",
    "type": "all-clear",
@@ -851,7 +851,7 @@
   },
   {
    "post_id": "chat-20261109-2116-mlk-locust",
-   "url": "https://facebook.com/groups/2292669074800742/permalink/chat-20261109-2116-mlk-locust/",
+   "url": "",
    "time_local": "2026-11-09 21:16",
    "date": "2026-11-09",
    "type": "all-clear",
@@ -863,7 +863,7 @@
   },
   {
    "post_id": "chat-20261109-2121-5th-marquette",
-   "url": "https://facebook.com/groups/2292669074800742/permalink/chat-20261109-2121-5th-marquette/",
+   "url": "",
    "time_local": "2026-11-09 21:22",
    "date": "2026-11-09",
    "type": "alert",
@@ -872,9 +872,125 @@
    "lat": 35.08834,
    "lon": -106.65215,
    "geocoded_as": "5th St NW & Marquette Ave NW, Albuquerque, NM 87102, United States"
+  },
+  {
+   "post_id": "2317651078969208",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2317651078969208/",
+   "time_local": "2026-11-09 21:46",
+   "date": "2026-11-09",
+   "type": "help",
+   "location": "3513 Tower Rd SW, Albuquerque",
+   "summary": "Evento gratuito de información sobre inmigración y ICE con un abogado, el miércoles 11 de noviembre a las 7 PM en la iglesia Monte de Sión, 3513 Tower Rd SW.",
+   "lat": 35.06712,
+   "lon": -106.71309,
+   "geocoded_as": "3513 Tower Rd SW, Albuquerque, NM 87121-3414, United States"
+  },
+  {
+   "post_id": "2317532442314405",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2317532442314405/",
+   "time_local": "2026-11-09 18:59",
+   "date": "2026-11-09",
+   "type": "info",
+   "location": "98th St y Central Ave SW",
+   "summary": "Alguien pregunta cómo está la zona de la avenida 98 con Central.",
+   "lat": 35.07253,
+   "lon": -106.74275,
+   "geocoded_as": "98th St SW & Central Ave SW"
+  },
+  {
+   "post_id": "2317531982314451",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2317531982314451/",
+   "time_local": "2026-11-09 18:59",
+   "date": "2026-11-09",
+   "type": "info",
+   "location": "98th St y Central Ave SW",
+   "summary": "Alguien pregunta cómo está la zona de la avenida 98 con Central.",
+   "lat": 35.07253,
+   "lon": -106.74275,
+   "geocoded_as": "98th St SW & Central Ave SW"
+  },
+  {
+   "post_id": "2317518832315766",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2317518832315766/",
+   "time_local": "2026-11-09 18:40",
+   "date": "2026-11-09",
+   "type": "all-clear",
+   "location": "Río Bravo Blvd y Coors Blvd SW",
+   "summary": "Reportan libre el tramo de Río Bravo y Coors hasta Central, alrededor de las 6:40 PM.",
+   "lat": 35.02716,
+   "lon": -106.71393,
+   "geocoded_as": "Coors Blvd SW & Rio Bravo Blvd SW"
+  },
+  {
+   "post_id": "2317479402319709",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2317479402319709/",
+   "time_local": "2026-11-09 17:52",
+   "date": "2026-11-09",
+   "type": "info",
+   "location": "Sage Rd y Coors Blvd SW",
+   "summary": "Alguien pregunta si está limpio el tramo desde Sage sobre Coors hasta Central.",
+   "lat": 35.06029,
+   "lon": -106.70803,
+   "geocoded_as": "Coors Blvd SW & Sage Rd SW"
+  },
+  {
+   "post_id": "2317444458989870",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2317444458989870/",
+   "time_local": "2026-11-09 16:53",
+   "date": "2026-11-09",
+   "type": "all-clear",
+   "location": "2nd St y Río Bravo Blvd SW",
+   "summary": "Reportan limpio el tramo de 2nd y Río Bravo hasta la 98, alrededor de las 4:50 PM.",
+   "lat": 35.0271,
+   "lon": -106.65822,
+   "geocoded_as": "2nd St SW & Rio Bravo Blvd SE & Rio Bravo Blvd SW"
   }
  ],
  "archive": [
+  {
+   "post_id": "2317842305616752",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2317842305616752/",
+   "time_local": "2026-11-10 02:19",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 3
+  },
+  {
+   "post_id": "2317828608951455",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2317828608951455/",
+   "time_local": "2026-11-10 01:59",
+   "date": "2026-11-10",
+   "type": "sin-texto",
+   "location_hint": "",
+   "has_text": false,
+   "reacts": 2,
+   "comments": 0
+  },
+  {
+   "post_id": "2317747005626282",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2317747005626282/",
+   "time_local": "2026-11-10 00:03",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location_hint": "",
+   "has_text": true,
+   "reacts": 1,
+   "comments": 0
+  },
+  {
+   "post_id": "2317651078969208",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2317651078969208/",
+   "time_local": "2026-11-09 21:46",
+   "date": "2026-11-09",
+   "type": "sin-texto",
+   "location_hint": "",
+   "has_text": false,
+   "reacts": 11,
+   "comments": 3
+  },
   {
    "post_id": "2317625745638408",
    "url": "https://facebook.com/groups/2292669074800742/permalink/2317625745638408/",
@@ -883,7 +999,7 @@
    "type": "alert",
    "location_hint": "",
    "has_text": true,
-   "reacts": 6,
+   "reacts": 8,
    "comments": 0
   },
   {
@@ -894,7 +1010,7 @@
    "type": "alert",
    "location_hint": "",
    "has_text": true,
-   "reacts": 7,
+   "reacts": 13,
    "comments": 0
   },
   {
@@ -909,6 +1025,17 @@
    "comments": 2
   },
   {
+   "post_id": "2317580342309615",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2317580342309615/",
+   "time_local": "2026-11-09 20:02",
+   "date": "2026-11-09",
+   "type": "info",
+   "location_hint": "",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 3
+  },
+  {
    "post_id": "2317553782312271",
    "url": "https://facebook.com/groups/2292669074800742/permalink/2317553782312271/",
    "time_local": "2026-11-09 19:27",
@@ -920,6 +1047,39 @@
    "comments": 1
   },
   {
+   "post_id": "2317532442314405",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2317532442314405/",
+   "time_local": "2026-11-09 18:59",
+   "date": "2026-11-09",
+   "type": "info",
+   "location_hint": "Central",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 1
+  },
+  {
+   "post_id": "2317531982314451",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2317531982314451/",
+   "time_local": "2026-11-09 18:59",
+   "date": "2026-11-09",
+   "type": "info",
+   "location_hint": "Central",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 2
+  },
+  {
+   "post_id": "2317518832315766",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2317518832315766/",
+   "time_local": "2026-11-09 18:40",
+   "date": "2026-11-09",
+   "type": "all-clear",
+   "location_hint": "Central, Coors",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 1
+  },
+  {
    "post_id": "2317487385652244",
    "url": "https://facebook.com/groups/2292669074800742/permalink/2317487385652244/",
    "time_local": "2026-11-09 18:03",
@@ -927,7 +1087,18 @@
    "type": "all-clear",
    "location_hint": "Louisiana, Montgomery",
    "has_text": true,
-   "reacts": 7,
+   "reacts": 8,
+   "comments": 5
+  },
+  {
+   "post_id": "2317479402319709",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2317479402319709/",
+   "time_local": "2026-11-09 17:52",
+   "date": "2026-11-09",
+   "type": "all-clear",
+   "location_hint": "Central, Coors, Sage",
+   "has_text": true,
+   "reacts": 0,
    "comments": 5
   },
   {
@@ -942,6 +1113,17 @@
    "comments": 1
   },
   {
+   "post_id": "2317472278987088",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2317472278987088/",
+   "time_local": "2026-11-09 17:40",
+   "date": "2026-11-09",
+   "type": "alert",
+   "location_hint": "",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 258
+  },
+  {
    "post_id": "2317471202320529",
    "url": "https://facebook.com/groups/2292669074800742/permalink/2317471202320529/",
    "time_local": "2026-11-09 17:38",
@@ -949,8 +1131,8 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 48,
-   "comments": 21
+   "reacts": 58,
+   "comments": 23
   },
   {
    "post_id": "2317467272320922",
@@ -964,6 +1146,39 @@
    "comments": 0
   },
   {
+   "post_id": "2317459138988402",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2317459138988402/",
+   "time_local": "2026-11-09 17:19",
+   "date": "2026-11-09",
+   "type": "all-clear",
+   "location_hint": "Wyoming, Eubank",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 0
+  },
+  {
+   "post_id": "2317458918988424",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2317458918988424/",
+   "time_local": "2026-11-09 17:18",
+   "date": "2026-11-09",
+   "type": "alert",
+   "location_hint": "Rio Bravo",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 0
+  },
+  {
+   "post_id": "2317457312321918",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2317457312321918/",
+   "time_local": "2026-11-09 17:15",
+   "date": "2026-11-09",
+   "type": "alert",
+   "location_hint": "",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 6
+  },
+  {
    "post_id": "2317449925655990",
    "url": "https://facebook.com/groups/2292669074800742/permalink/2317449925655990/",
    "time_local": "2026-11-09 17:02",
@@ -971,8 +1186,19 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 5,
+   "reacts": 6,
    "comments": 0
+  },
+  {
+   "post_id": "2317444458989870",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2317444458989870/",
+   "time_local": "2026-11-09 16:53",
+   "date": "2026-11-09",
+   "type": "all-clear",
+   "location_hint": "Rio Bravo, 2nd",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 2
   },
   {
    "post_id": "2317426805658302",
@@ -1004,7 +1230,7 @@
    "type": "info",
    "location_hint": "Central, Wyoming",
    "has_text": true,
-   "reacts": 23,
+   "reacts": 24,
    "comments": 1
   },
   {
@@ -1026,7 +1252,7 @@
    "type": "info",
    "location_hint": "Coors, I-40",
    "has_text": true,
-   "reacts": 36,
+   "reacts": 38,
    "comments": 1
   },
   {
@@ -1070,8 +1296,8 @@
    "type": "alert",
    "location_hint": "Central, Wyoming",
    "has_text": true,
-   "reacts": 66,
-   "comments": 28
+   "reacts": 68,
+   "comments": 29
   },
   {
    "post_id": "2317363538997962",
@@ -1092,8 +1318,8 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 16,
-   "comments": 0
+   "reacts": 17,
+   "comments": 1
   },
   {
    "post_id": "2317353358998980",
@@ -1103,7 +1329,7 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 26,
+   "reacts": 27,
    "comments": 5
   },
   {
@@ -1125,7 +1351,7 @@
    "type": "help",
    "location_hint": "Eubank, Lomas",
    "has_text": true,
-   "reacts": 166,
+   "reacts": 171,
    "comments": 25
   },
   {
@@ -1147,7 +1373,7 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 14,
+   "reacts": 15,
    "comments": 0
   },
   {
@@ -1158,7 +1384,7 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 71,
+   "reacts": 79,
    "comments": 4
   },
   {
@@ -1180,7 +1406,7 @@
    "type": "info",
    "location_hint": "Florida, Acoma",
    "has_text": true,
-   "reacts": 54,
+   "reacts": 55,
    "comments": 6
   },
   {
@@ -1191,7 +1417,7 @@
    "type": "info",
    "location_hint": "Central",
    "has_text": true,
-   "reacts": 58,
+   "reacts": 59,
    "comments": 9
   },
   {
@@ -1202,7 +1428,7 @@
    "type": "alert",
    "location_hint": "Rio Bravo, Broadway, Maverick",
    "has_text": true,
-   "reacts": 71,
+   "reacts": 72,
    "comments": 9
   },
   {
@@ -1213,7 +1439,7 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 41,
+   "reacts": 42,
    "comments": 8
   },
   {
@@ -1236,7 +1462,7 @@
    "location_hint": "Andaluz",
    "has_text": true,
    "reacts": 59,
-   "comments": 10
+   "comments": 11
   },
   {
    "post_id": "2317246172343032",
@@ -1257,7 +1483,7 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 12,
+   "reacts": 15,
    "comments": 0
   },
   {
@@ -1268,7 +1494,7 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 7,
+   "reacts": 8,
    "comments": 1
   },
   {
@@ -1290,7 +1516,7 @@
    "type": "alert",
    "location_hint": "Central, Wyoming",
    "has_text": true,
-   "reacts": 35,
+   "reacts": 36,
    "comments": 3
   },
   {
@@ -1323,7 +1549,7 @@
    "type": "info",
    "location_hint": "Santa Fe",
    "has_text": true,
-   "reacts": 37,
+   "reacts": 38,
    "comments": 12
   },
   {
@@ -1576,7 +1802,7 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 136,
+   "reacts": 137,
    "comments": 18
   },
   {
@@ -2336,7 +2562,7 @@
    "location_hint": "",
    "has_text": true,
    "reacts": 97,
-   "comments": 18
+   "comments": 19
   },
   {
    "post_id": "2311954832872166",
