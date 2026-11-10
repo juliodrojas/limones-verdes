@@ -1,5 +1,5 @@
 {
- "generated_at_mst": "2026-11-09 21:16 MST",
+ "generated_at_mst": "2026-11-09 21:21 MST",
  "group": {
   "name": "Limones Verdes Albuquerque",
   "id": "2292669074800742",
@@ -13,11 +13,11 @@
   "last": "2026-11-09"
  },
  "counts": {
-  "mapped_last_7d": 70,
-  "mapped_last_3d": 58,
+  "mapped_last_7d": 71,
+  "mapped_last_3d": 59,
   "posts_last_7d": 144,
   "posts_last_3d": 109,
-  "unmappable_last_7d": 72,
+  "unmappable_last_7d": 71,
   "unpinned_last_7d": 3
  },
  "entries": [
@@ -860,6 +860,18 @@
    "lat": 35.08522,
    "lon": -106.63687,
    "geocoded_as": "Dr Martin Luther King Jr Ave NE & Locust St NE, Albuquerque, NM 87102, United States"
+  },
+  {
+   "post_id": "julio-20261109-2121-5th-marquette",
+   "url": "",
+   "time_local": "2026-11-09 21:21",
+   "date": "2026-11-09",
+   "type": "all-clear",
+   "location": "5th St y Marquette Ave NW",
+   "summary": "Reporte de Julio: todo tranquilo por la zona, no hay ningún carro; los locales están cerrando pero todo se ve normal.",
+   "lat": 35.08834,
+   "lon": -106.65215,
+   "geocoded_as": "5th St NW & Marquette Ave NW, Albuquerque, NM 87102, United States"
   }
  ],
  "archive": [
