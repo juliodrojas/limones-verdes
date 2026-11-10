@@ -1,5 +1,5 @@
 {
- "generated_at_mst": "2026-11-09 20:58 MST",
+ "generated_at_mst": "2026-11-09 21:09 MST",
  "group": {
   "name": "Limones Verdes Albuquerque",
   "id": "2292669074800742",
@@ -13,11 +13,11 @@
   "last": "2026-11-09"
  },
  "counts": {
-  "mapped_last_7d": 63,
-  "mapped_last_3d": 51,
+  "mapped_last_7d": 64,
+  "mapped_last_3d": 52,
   "posts_last_7d": 144,
   "posts_last_3d": 109,
-  "unmappable_last_7d": 79,
+  "unmappable_last_7d": 78,
   "unpinned_last_7d": 3
  },
  "entries": [
@@ -776,6 +776,18 @@
    "lat": 35.07579,
    "lon": -106.56857,
    "geocoded_as": "Central Ave SE & Louisiana Blvd SE"
+  },
+  {
+   "post_id": "julio-20261109-2108-central-university",
+   "url": "",
+   "time_local": "2026-11-09 21:08",
+   "date": "2026-11-09",
+   "type": "all-clear",
+   "location": "Central Ave y University Blvd NE",
+   "summary": "Reporte de Julio: todo tranquilo por la UNM, no se ve ningún carro en la intersección.",
+   "lat": 35.08146,
+   "lon": -106.62691,
+   "geocoded_as": "Central Ave & University Blvd NE, Albuquerque, NM 87106, United States"
   }
  ],
  "archive": [
@@ -787,7 +799,7 @@
    "type": "alert",
    "location_hint": "",
    "has_text": true,
-   "reacts": 0,
+   "reacts": 1,
    "comments": 0
   },
   {
@@ -809,7 +821,7 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 1,
+   "reacts": 2,
    "comments": 1
   },
   {
@@ -842,7 +854,7 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 40,
+   "reacts": 41,
    "comments": 18
   },
   {
@@ -963,7 +975,7 @@
    "type": "alert",
    "location_hint": "Central, Wyoming",
    "has_text": true,
-   "reacts": 63,
+   "reacts": 64,
    "comments": 28
   },
   {
@@ -1018,7 +1030,7 @@
    "type": "help",
    "location_hint": "Eubank, Lomas",
    "has_text": true,
-   "reacts": 161,
+   "reacts": 162,
    "comments": 25
   },
   {
@@ -1051,7 +1063,7 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 60,
+   "reacts": 62,
    "comments": 4
   },
   {
