@@ -1,5 +1,5 @@
 {
- "generated_at_mst": "2026-11-10 13:40 MST",
+ "generated_at_mst": "2026-11-10 14:12 MST",
  "group": {
   "name": "Limones Verdes Albuquerque",
   "id": "2292669074800742",
@@ -7,17 +7,17 @@
   "created": "2026-10-16",
   "members": "~6,000"
  },
- "total_scraped": 266,
+ "total_scraped": 273,
  "scrape_range": {
   "first": "2026-10-16",
   "last": "2026-11-09"
  },
  "counts": {
-  "mapped_last_7d": 148,
-  "mapped_last_3d": 136,
-  "posts_last_7d": 227,
-  "posts_last_3d": 192,
-  "unmappable_last_7d": 77,
+  "mapped_last_7d": 150,
+  "mapped_last_3d": 138,
+  "posts_last_7d": 234,
+  "posts_last_3d": 199,
+  "unmappable_last_7d": 82,
   "unpinned_last_7d": 3
  },
  "entries": [
@@ -1796,9 +1796,44 @@
    "lat": 34.75545,
    "lon": -106.65282,
    "geocoded_as": "Pacifica Dr & Soquel Rd"
+  },
+  {
+   "post_id": "2318409738893342",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318409738893342/",
+   "time_local": "2026-11-10 13:17",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "Central Ave y Vermont St NE",
+   "summary": "Reporte: presencia de la DEA en Central y Vermont, alrededor de la 1:16 PM; se aclara que no es ICE.",
+   "lat": 35.07434,
+   "lon": -106.55376,
+   "geocoded_as": "Central Ave & Vermont St NE"
+  },
+  {
+   "post_id": "2318359452231704",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318359452231704/",
+   "time_local": "2026-11-10 12:20",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "Escuela San Jose Elementary, Thaxton Ave SE",
+   "summary": "Reporte compartido: vehículos estacionados cerca de la escuela San Jose Elementary, alrededor de las 12:20 PM.",
+   "lat": 35.0624,
+   "lon": -106.64654,
+   "geocoded_as": "East San Jose Elementary School, 415 Thaxton Ave SE"
   }
  ],
  "archive": [
+  {
+   "post_id": "2318409738893342",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318409738893342/",
+   "time_local": "2026-11-10 13:17",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location_hint": "Central, Vermont",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 7
+  },
   {
    "post_id": "2318405145560468",
    "url": "https://facebook.com/groups/2292669074800742/permalink/2318405145560468/",
@@ -1811,6 +1846,17 @@
    "comments": 6
   },
   {
+   "post_id": "2318404728893843",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318404728893843/",
+   "time_local": "2026-11-10 13:10",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "Los Lunas, Belen",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 7
+  },
+  {
    "post_id": "2318401912227458",
    "url": "https://facebook.com/groups/2292669074800742/permalink/2318401912227458/",
    "time_local": "2026-11-10 13:06",
@@ -1820,6 +1866,17 @@
    "has_text": true,
    "reacts": 4,
    "comments": 6
+  },
+  {
+   "post_id": "2318394838894832",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318394838894832/",
+   "time_local": "2026-11-10 12:57",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 3
   },
   {
    "post_id": "2318377418896574",
@@ -1855,6 +1912,39 @@
    "comments": 5
   },
   {
+   "post_id": "2318370865563896",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318370865563896/",
+   "time_local": "2026-11-10 12:27",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "Rio Bravo, Isleta",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 3
+  },
+  {
+   "post_id": "2318365428897773",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318365428897773/",
+   "time_local": "2026-11-10 12:20",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location_hint": "Los Lunas",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 8
+  },
+  {
+   "post_id": "2318364422231207",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318364422231207/",
+   "time_local": "2026-11-10 12:19",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "Los Lunas",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 8
+  },
+  {
    "post_id": "2318359452231704",
    "url": "https://facebook.com/groups/2292669074800742/permalink/2318359452231704/",
    "time_local": "2026-11-10 12:12",
@@ -1864,6 +1954,17 @@
    "has_text": false,
    "reacts": 7,
    "comments": 6
+  },
+  {
+   "post_id": "2318352915565691",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318352915565691/",
+   "time_local": "2026-11-10 12:04",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "Los Lunas",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 0
   },
   {
    "post_id": "2318349005566082",
