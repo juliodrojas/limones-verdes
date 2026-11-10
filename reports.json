@@ -1,5 +1,5 @@
 {
- "generated_at_mst": "2026-11-10 14:12 MST",
+ "generated_at_mst": "2026-11-10 14:53 MST",
  "group": {
   "name": "Limones Verdes Albuquerque",
   "id": "2292669074800742",
@@ -13,11 +13,11 @@
   "last": "2026-11-09"
  },
  "counts": {
-  "mapped_last_7d": 150,
-  "mapped_last_3d": 138,
+  "mapped_last_7d": 152,
+  "mapped_last_3d": 139,
   "posts_last_7d": 234,
   "posts_last_3d": 199,
-  "unmappable_last_7d": 82,
+  "unmappable_last_7d": 80,
   "unpinned_last_7d": 3
  },
  "entries": [
@@ -1820,6 +1820,30 @@
    "lat": 35.0624,
    "lon": -106.64654,
    "geocoded_as": "East San Jose Elementary School, 415 Thaxton Ave SE"
+  },
+  {
+   "post_id": "fb2-20261105-0654-alerta-nacional-prosperity-1210",
+   "url": "",
+   "time_local": "2026-11-05 06:54",
+   "date": "2026-11-05",
+   "type": "alert",
+   "location": "1210 Prosperity Ave SE",
+   "summary": "Reporte de Alerta Nacional: la mañana del 5 de noviembre, agentes se llevaron a 11 trabajadores en 1210 Prosperity Ave SE, en Mountain View. La foto muestra a una persona esposada acompañada por agentes.",
+   "lat": 35.01454,
+   "lon": -106.64396,
+   "geocoded_as": "1210 Prosperity Ave SE"
+  },
+  {
+   "post_id": "iceout-20261110-1426-central-vermont",
+   "url": "",
+   "time_local": "2026-11-10 14:26",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "Central Ave NE y Vermont St NE",
+   "summary": "Reporte de ICEOut, sin confirmar: vigilancia y presencia de vehículos en Central Ave NE y Vermont St NE, reportado alrededor de las 2:24-2:26 PM (dos reportes del mismo operativo); se señalan 5 o más vehículos y 5 a 8 o más oficiales.",
+   "lat": 35.07434,
+   "lon": -106.55376,
+   "geocoded_as": "Central Ave & Vermont St NE"
   }
  ],
  "archive": [
