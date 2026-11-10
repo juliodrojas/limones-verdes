@@ -1,5 +1,5 @@
 {
- "generated_at_mst": "2026-11-09 20:31 MST",
+ "generated_at_mst": "2026-11-09 20:58 MST",
  "group": {
   "name": "Limones Verdes Albuquerque",
   "id": "2292669074800742",
@@ -7,17 +7,17 @@
   "created": "2026-10-16",
   "members": "~6,000"
  },
- "total_scraped": 181,
+ "total_scraped": 183,
  "scrape_range": {
   "first": "2026-10-16",
   "last": "2026-11-09"
  },
  "counts": {
-  "mapped_last_7d": 53,
-  "mapped_last_3d": 41,
-  "posts_last_7d": 142,
-  "posts_last_3d": 107,
-  "unmappable_last_7d": 87,
+  "mapped_last_7d": 63,
+  "mapped_last_3d": 51,
+  "posts_last_7d": 144,
+  "posts_last_3d": 109,
+  "unmappable_last_7d": 79,
   "unpinned_last_7d": 3
  },
  "entries": [
@@ -656,9 +656,151 @@
    "lat": 35.08729,
    "lon": -106.5507,
    "geocoded_as": "Lomas Blvd NE & Wyoming Blvd NE"
+  },
+  {
+   "post_id": "wa-20261109-1442-louisiana-zuni",
+   "url": "",
+   "time_local": "2026-11-09 14:42",
+   "date": "2026-11-09",
+   "type": "alert",
+   "location": "Louisiana Blvd y Zuni Rd SE",
+   "summary": "Avistamiento reportado en la zona de Louisiana y Zuni. Reporte de WhatsApp, grupo Limones verdes ABQ.",
+   "lat": 35.07268,
+   "lon": -106.56862,
+   "geocoded_as": "Louisiana Blvd SE & Zuni Rd SE"
+  },
+  {
+   "post_id": "wa-20261109-2026-lindo-mexico",
+   "url": "",
+   "time_local": "2026-11-09 20:26",
+   "date": "2026-11-09",
+   "type": "alert",
+   "location": "Central Ave y Louisiana Blvd SE",
+   "summary": "Avistamiento en Lindo México, en Central y Louisiana, reportado en el momento con video y foto de mapa. Reporte de WhatsApp, grupo Limones verdes ABQ.",
+   "lat": 35.07579,
+   "lon": -106.56857,
+   "geocoded_as": "Central Ave SE & Louisiana Blvd SE"
+  },
+  {
+   "post_id": "wa-20261109-1612-unser-central",
+   "url": "",
+   "time_local": "2026-11-09 16:12",
+   "date": "2026-11-09",
+   "type": "all-clear",
+   "location": "Unser Blvd y Central Ave NW",
+   "summary": "Libre: Unser de Central a Southern. El pin marca Unser y Central, inicio del tramo. Reporte de WhatsApp, grupo Limones verdes ABQ.",
+   "lat": 35.07713,
+   "lon": -106.72304,
+   "geocoded_as": "Central Ave NW & Unser Blvd NW"
+  },
+  {
+   "post_id": "wa-20261109-1613-coors-blake",
+   "url": "",
+   "time_local": "2026-11-09 16:13",
+   "date": "2026-11-09",
+   "type": "all-clear",
+   "location": "Coors Blvd y Blake Rd SW",
+   "summary": "Libre: de Coors y Blake hasta 98 y Bluewater, pasando El Mezquite y las gasolineras, libre hasta las 4:10 p. m. El pin marca Coors y Blake, inicio del tramo. Reporte de WhatsApp, grupo Limones verdes ABQ.",
+   "lat": 35.03657,
+   "lon": -106.71233,
+   "geocoded_as": "Blake Rd SW & Coors Blvd SW"
+  },
+  {
+   "post_id": "wa-20261109-1613-dennis-chavez-98th",
+   "url": "",
+   "time_local": "2026-11-09 16:13",
+   "date": "2026-11-09",
+   "type": "all-clear",
+   "location": "Dennis Chavez Blvd y 98th St SW",
+   "summary": "Libre: de Denis Chávez a Bluewater por 98th. El pin marca Denis Chávez y 98th, inicio del tramo. Reporte de WhatsApp, grupo Limones verdes ABQ.",
+   "lat": 35.0246,
+   "lon": -106.74044,
+   "geocoded_as": "98th St & 98th St SW & Dennis Chavez Blvd SW"
+  },
+  {
+   "post_id": "wa-20261109-1748-montgomery-san-mateo",
+   "url": "",
+   "time_local": "2026-11-09 17:48",
+   "date": "2026-11-09",
+   "type": "all-clear",
+   "location": "Montgomery Blvd y San Mateo Blvd NE",
+   "summary": "Todo tranquilo en Montgomery y San Mateo. Reporte de WhatsApp, grupo Limones verdes ABQ.",
+   "lat": 35.13089,
+   "lon": -106.58654,
+   "geocoded_as": "Montgomery Blvd NE & San Mateo Blvd NE"
+  },
+  {
+   "post_id": "wa-20261109-1800-coors-rio-bravo",
+   "url": "",
+   "time_local": "2026-11-09 18:00",
+   "date": "2026-11-09",
+   "type": "all-clear",
+   "location": "Coors Blvd y Rio Bravo Blvd SW",
+   "summary": "Tranquilo en Coors y Río Bravo, sin movimiento. Reporte de WhatsApp, grupo Limones verdes ABQ.",
+   "lat": 35.02716,
+   "lon": -106.71393,
+   "geocoded_as": "Coors Blvd SW & Rio Bravo Blvd SW"
+  },
+  {
+   "post_id": "wa-20261109-1828-paseo-jefferson",
+   "url": "",
+   "time_local": "2026-11-09 18:28",
+   "date": "2026-11-09",
+   "type": "all-clear",
+   "location": "Paseo del Norte Blvd y Jefferson St NE",
+   "summary": "Tranquilo en Paseo del Norte y Jefferson. Reporte de WhatsApp, grupo Limones verdes ABQ.",
+   "lat": 35.17516,
+   "lon": -106.59361,
+   "geocoded_as": "Jefferson St NE & Paseo del Norte NE"
+  },
+  {
+   "post_id": "wa-20261109-1829-broadway-rio-bravo",
+   "url": "",
+   "time_local": "2026-11-09 18:29",
+   "date": "2026-11-09",
+   "type": "all-clear",
+   "location": "Broadway Blvd y Rio Bravo Blvd SE",
+   "summary": "Sin novedad en Broadway y Río Bravo, en un recorrido hecho unos 20 minutos antes. Reporte de WhatsApp, grupo Limones verdes ABQ.",
+   "lat": 35.02531,
+   "lon": -106.64645,
+   "geocoded_as": "Broadway Blvd SE & Rio Bravo Blvd SE"
+  },
+  {
+   "post_id": "2317597365641246",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2317597365641246/",
+   "time_local": "2026-11-09 20:27",
+   "date": "2026-11-09",
+   "type": "alert",
+   "location": "Louisiana Blvd y Central Ave SE",
+   "summary": "Avistamiento a las 8:20 p. m. en la esquina de Lindo México, Central y Louisiana; video nocturno con luces de policía.",
+   "lat": 35.07579,
+   "lon": -106.56857,
+   "geocoded_as": "Central Ave SE & Louisiana Blvd SE"
   }
  ],
  "archive": [
+  {
+   "post_id": "2317617688972547",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2317617688972547/",
+   "time_local": "2026-11-09 20:57",
+   "date": "2026-11-09",
+   "type": "alert",
+   "location_hint": "",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 0
+  },
+  {
+   "post_id": "2317597365641246",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2317597365641246/",
+   "time_local": "2026-11-09 20:27",
+   "date": "2026-11-09",
+   "type": "info",
+   "location_hint": "Central, Louisiana",
+   "has_text": true,
+   "reacts": 12,
+   "comments": 2
+  },
   {
    "post_id": "2317553782312271",
    "url": "https://facebook.com/groups/2292669074800742/permalink/2317553782312271/",
@@ -700,8 +842,8 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 37,
-   "comments": 15
+   "reacts": 40,
+   "comments": 18
   },
   {
    "post_id": "2317467272320922",
@@ -777,7 +919,7 @@
    "type": "info",
    "location_hint": "Coors, I-40",
    "has_text": true,
-   "reacts": 33,
+   "reacts": 35,
    "comments": 1
   },
   {
@@ -876,7 +1018,7 @@
    "type": "help",
    "location_hint": "Eubank, Lomas",
    "has_text": true,
-   "reacts": 160,
+   "reacts": 161,
    "comments": 25
   },
   {
@@ -909,7 +1051,7 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 56,
+   "reacts": 60,
    "comments": 4
   },
   {
@@ -986,8 +1128,8 @@
    "type": "alert",
    "location_hint": "Andaluz",
    "has_text": true,
-   "reacts": 58,
-   "comments": 7
+   "reacts": 59,
+   "comments": 9
   },
   {
    "post_id": "2317246172343032",
@@ -1008,7 +1150,7 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 8,
+   "reacts": 11,
    "comments": 0
   },
   {
@@ -1074,7 +1216,7 @@
    "type": "info",
    "location_hint": "Santa Fe",
    "has_text": true,
-   "reacts": 36,
+   "reacts": 37,
    "comments": 12
   },
   {
