@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://limones-verdes.pages.dev/sitemap.xml
