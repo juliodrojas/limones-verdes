@@ -1,5 +1,5 @@
 {
- "generated_at_mst": "2026-11-10 11:47 MST",
+ "generated_at_mst": "2026-11-10 11:54 MST",
  "group": {
   "name": "Limones Verdes Albuquerque",
   "id": "2292669074800742",
@@ -7,17 +7,17 @@
   "created": "2026-10-16",
   "members": "~6,000"
  },
- "total_scraped": 245,
+ "total_scraped": 253,
  "scrape_range": {
   "first": "2026-10-16",
   "last": "2026-11-09"
  },
  "counts": {
-  "mapped_last_7d": 103,
-  "mapped_last_3d": 91,
-  "posts_last_7d": 206,
-  "posts_last_3d": 171,
-  "unmappable_last_7d": 101,
+  "mapped_last_7d": 133,
+  "mapped_last_3d": 121,
+  "posts_last_7d": 214,
+  "posts_last_3d": 179,
+  "unmappable_last_7d": 79,
   "unpinned_last_7d": 3
  },
  "entries": [
@@ -1051,7 +1051,7 @@
    "summary": "Reportan todo bien de Montaño pasando Coors y Alameda; precaución, mucho sheriff en Montaño antes de llegar a Coors, alrededor de las 5:51 AM.",
    "lat": 35.14953,
    "lon": -106.68623,
-   "geocoded_as": "Coors Blvd NW & Montano Rd NW"
+   "geocoded_as": "Montaño Rd & Coors Blvd NW"
   },
   {
    "post_id": "2318190415581941",
@@ -1256,9 +1256,402 @@
    "lat": 35.05495,
    "lon": -106.6524,
    "geocoded_as": "San Jose Ave SE & William St SE"
+  },
+  {
+   "post_id": "2318317085569274",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318317085569274/",
+   "time_local": "2026-11-10 11:16",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "El Cerro Mission Rd y Van Camp Blvd, Los Lunas",
+   "summary": "Reporte de las 11:16 a. m.: presencia en la zona de construcción cerca de El Cerro Mission Rd y Van Camp Blvd, en Los Lunas.",
+   "lat": 34.76837,
+   "lon": -106.64074,
+   "geocoded_as": "Airport Rd & El Cerro Mission Rd & Van Camp Blvd"
+  },
+  {
+   "post_id": "2318326268901689",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318326268901689/",
+   "time_local": "2026-11-10 11:27",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "El Cerro Mission, Los Lunas",
+   "summary": "Reporte de las 11:27 a. m.: presencia reportada en El Cerro Mission, Los Lunas.",
+   "lat": 34.76837,
+   "lon": -106.64074,
+   "geocoded_as": "Airport Rd & El Cerro Mission Rd & Van Camp Blvd"
+  },
+  {
+   "post_id": "2318326415568341",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318326415568341/",
+   "time_local": "2026-11-10 11:29",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "El Cerro Mission, Los Lunas",
+   "summary": "Reporte de las 11:29 a. m.: presencia en El Cerro Mission, Los Lunas; se describe una Ford blanca.",
+   "lat": 34.76837,
+   "lon": -106.64074,
+   "geocoded_as": "Airport Rd & El Cerro Mission Rd & Van Camp Blvd"
+  },
+  {
+   "post_id": "2318324198901896",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318324198901896/",
+   "time_local": "2026-11-10 11:25",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Wyoming Blvd y Candelaria Rd NE",
+   "summary": "Todo despejado sobre Wyoming desde Candelaria hasta Central, alrededor de las 11:25 a. m.",
+   "lat": 35.11637,
+   "lon": -106.55098,
+   "geocoded_as": "Candelaria Rd NE & Wyoming Blvd NE"
+  },
+  {
+   "post_id": "wa-20261110-0550-bridge-atrisco",
+   "url": "",
+   "time_local": "2026-11-10 05:50",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Bridge Blvd y Atrisco Dr SW",
+   "summary": "Reporte de WhatsApp: por Bridge, de Atrisco a Goff, sin novedad, alrededor de las 5:50 AM.",
+   "lat": 35.06621,
+   "lon": -106.6918,
+   "geocoded_as": "Atrisco Dr SW & Bridge Blvd SW"
+  },
+  {
+   "post_id": "wa-20261110-0550-rio-bravo-coors",
+   "url": "",
+   "time_local": "2026-11-10 05:50",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Rio Bravo Blvd y Coors Blvd SW",
+   "summary": "Reporte de WhatsApp: todo limpio de I-25 hasta Coors por Río Bravo, alrededor de las 5:50 AM.",
+   "lat": 35.02716,
+   "lon": -106.71393,
+   "geocoded_as": "Coors Blvd SW & Rio Bravo Blvd SW"
+  },
+  {
+   "post_id": "wa-20261110-0552-4th-menaul",
+   "url": "",
+   "time_local": "2026-11-10 05:52",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "4th St NW y Menaul Blvd NW",
+   "summary": "Reporte de WhatsApp: Cuarta a Menaul limpio, alrededor de las 5:52 AM.",
+   "lat": 35.11093,
+   "lon": -106.64656,
+   "geocoded_as": "4th St NW & Menaul Blvd NW"
+  },
+  {
+   "post_id": "wa-20261110-0554-menaul-broadway",
+   "url": "",
+   "time_local": "2026-11-10 05:54",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Menaul Blvd y Broadway Blvd NE",
+   "summary": "Reporte de WhatsApp: Menaul hasta Broadway limpio, alrededor de las 5:54 AM.",
+   "lat": 35.11015,
+   "lon": -106.63974,
+   "geocoded_as": "Broadway Blvd NE & Menaul Blvd NE"
+  },
+  {
+   "post_id": "wa-20261110-0556-edith-montano",
+   "url": "",
+   "time_local": "2026-11-10 05:56",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Edith Blvd y Montaño Rd NE",
+   "summary": "Reporte de WhatsApp: Edith hasta Montaño libre, alrededor de las 5:56 AM.",
+   "lat": 35.1366,
+   "lon": -106.62841,
+   "geocoded_as": "Edith Blvd NE & Montano Rd NE"
+  },
+  {
+   "post_id": "wa-20261110-0558-ladera-unser",
+   "url": "",
+   "time_local": "2026-11-10 05:58",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Ladera Dr NW y Unser Blvd NW",
+   "summary": "Reporte de WhatsApp: sin novedad Ladera y Unser, alrededor de las 5:58 AM.",
+   "lat": 35.10435,
+   "lon": -106.72974,
+   "geocoded_as": "Ladera Dr NW & Unser Blvd NW"
+  },
+  {
+   "post_id": "wa-20261110-0559-rio-bravo-broadway",
+   "url": "",
+   "time_local": "2026-11-10 05:59",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Rio Bravo Blvd y Broadway Blvd SE",
+   "summary": "Reporte de WhatsApp: Rio Bravo y Broadway, en la gasolinera Circle K, limpio, alrededor de las 5:59 AM.",
+   "lat": 35.02531,
+   "lon": -106.64645,
+   "geocoded_as": "Broadway Blvd SE & Rio Bravo Blvd SE"
+  },
+  {
+   "post_id": "wa-20261110-0627-unser-southern",
+   "url": "",
+   "time_local": "2026-11-10 06:27",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Unser Blvd y Southern Blvd SE, Rio Rancho",
+   "summary": "Reporte de WhatsApp: Unser de Southern hasta Central limpio, alrededor de las 6:27 AM.",
+   "lat": 35.24166,
+   "lon": -106.69695,
+   "geocoded_as": "Southern Blvd SE & Unser Blvd SE"
+  },
+  {
+   "post_id": "wa-20261110-0649-isleta-blake",
+   "url": "",
+   "time_local": "2026-11-10 06:49",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Isleta Blvd y Blake Rd SW",
+   "summary": "Reporte de WhatsApp: Isleta de Blake hasta Bridge libre, alrededor de las 6:49 AM.",
+   "lat": 35.03832,
+   "lon": -106.67949,
+   "geocoded_as": "Blake Rd SW & Isleta Blvd SW"
+  },
+  {
+   "post_id": "wa-20261110-0652-isleta-bridge",
+   "url": "",
+   "time_local": "2026-11-10 06:52",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Isleta Blvd y Bridge Blvd SW",
+   "summary": "Reporte de WhatsApp: Isleta y Bridge hasta Coors libre, alrededor de las 6:52 AM.",
+   "lat": 35.06833,
+   "lon": -106.66657,
+   "geocoded_as": "Bridge Blvd SW & Isleta Blvd SW"
+  },
+  {
+   "post_id": "wa-20261110-0654-gibson-san-mateo",
+   "url": "",
+   "time_local": "2026-11-10 06:54",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Gibson Blvd y San Mateo Blvd SE",
+   "summary": "Reporte de WhatsApp: de Gibson por San Mateo hasta el 40 libre, alrededor de las 6:54 AM.",
+   "lat": 35.05826,
+   "lon": -106.5864,
+   "geocoded_as": "Gibson Blvd SE & Ridgecrest Dr SE & San Mateo Blvd SE"
+  },
+  {
+   "post_id": "wa-20261110-0738-dennis-chavez-coors",
+   "url": "",
+   "time_local": "2026-11-10 07:38",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Dennis Chavez Blvd y Coors Blvd SW",
+   "summary": "Reporte de WhatsApp: Dennis Chavez y Coors libre, alrededor de las 7:38 AM.",
+   "lat": 35.02716,
+   "lon": -106.71411,
+   "geocoded_as": "Coors Blvd SW & Dennis Chavez Blvd SW"
+  },
+  {
+   "post_id": "wa-20261110-0745-12th-lomas",
+   "url": "",
+   "time_local": "2026-11-10 07:45",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "12th St NW y Lomas Blvd NW",
+   "summary": "Reporte de WhatsApp: 12 a Broadway por Lomas limpio, alrededor de las 7:45 AM.",
+   "lat": 35.09215,
+   "lon": -106.65975,
+   "geocoded_as": "12th St NW & Lomas Blvd NW"
+  },
+  {
+   "post_id": "wa-20261110-0749-maverick-menaul-university",
+   "url": "",
+   "time_local": "2026-11-10 07:49",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Maverick, Menaul Blvd y University Blvd NE",
+   "summary": "Reporte de WhatsApp: Maverick de Menaul y University libre, alrededor de las 7:49 AM.",
+   "lat": 35.10912,
+   "lon": -106.62382,
+   "geocoded_as": "Menaul Blvd NE & University Blvd NE"
+  },
+  {
+   "post_id": "wa-20261110-0758-cutler-san-mateo",
+   "url": "",
+   "time_local": "2026-11-10 07:58",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Cutler Ave y San Mateo Blvd NE",
+   "summary": "Reporte de WhatsApp: de Cutler hasta Candelaria por San Mateo limpio, alrededor de las 7:58 AM.",
+   "lat": 35.10552,
+   "lon": -106.58777,
+   "geocoded_as": "Cutler Ave NE & San Mateo Blvd NE"
+  },
+  {
+   "post_id": "wa-20261110-0758-isleta-casino",
+   "url": "",
+   "time_local": "2026-11-10 07:58",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "NM-47, Isleta Casino",
+   "summary": "Reporte de WhatsApp: dos camionetas negras con la cara cubierta cerca del casino Isleta, rumbo a Los Lunas, alrededor de las 7:58 AM.",
+   "lat": 34.93799,
+   "lon": -106.6625,
+   "geocoded_as": "Isleta Resort & Casino"
+  },
+  {
+   "post_id": "wa-20261110-0838-2nd-woodward",
+   "url": "",
+   "time_local": "2026-11-10 08:38",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "2nd St SW y Woodward Rd SW",
+   "summary": "Reporte de WhatsApp: presencia en 2da y Woodward Rd, antes de Río Bravo, alrededor de las 8:38 AM; Suburban negra y troca blanca junto al área de construcción.",
+   "lat": 35.04949,
+   "lon": -106.65673,
+   "geocoded_as": "2nd St SW & Woodward Rd SW"
+  },
+  {
+   "post_id": "wa-20261110-0904-4th-montano",
+   "url": "",
+   "time_local": "2026-11-10 09:04",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "4th St NW y Montaño Rd NW",
+   "summary": "Reporte de WhatsApp: limpio 4 y Montaño, alrededor de las 9:04 AM.",
+   "lat": 35.13865,
+   "lon": -106.64127,
+   "geocoded_as": "4th St NW & Montano Rd NW"
+  },
+  {
+   "post_id": "wa-20261110-0905-central-zuni",
+   "url": "",
+   "time_local": "2026-11-10 09:05",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Central Ave y Zuni Rd SE",
+   "summary": "Reporte de WhatsApp: todo bien Central y Zuni, alrededor de las 9:05 AM.",
+   "lat": 35.07318,
+   "lon": -106.54442,
+   "geocoded_as": "Central Ave & Zuni Rd SE"
+  },
+  {
+   "post_id": "wa-20261110-0935-bluewater-98th",
+   "url": "",
+   "time_local": "2026-11-10 09:35",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "98th St y Bluewater Rd NW",
+   "summary": "Reporte de WhatsApp: Bluewater y 98 limpio, alrededor de las 9:35 AM.",
+   "lat": 35.07876,
+   "lon": -106.74425,
+   "geocoded_as": "98th St NW & Bluewater Rd NW"
+  },
+  {
+   "post_id": "wa-20261110-0941-unser-blake",
+   "url": "",
+   "time_local": "2026-11-10 09:41",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Unser Blvd y Blake Rd SW",
+   "summary": "Reporte de WhatsApp: Unser y Blake hasta el freeway limpio, alrededor de las 9:41 AM.",
+   "lat": 35.0385,
+   "lon": -106.72802,
+   "geocoded_as": "Blake Rd SW & Unser Blvd SW"
+  },
+  {
+   "post_id": "wa-20261110-0948-montano-coors",
+   "url": "",
+   "time_local": "2026-11-10 09:48",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "Montaño Rd y Coors Blvd NW",
+   "summary": "Reporte de WhatsApp: ICE en Montaño rumbo a Coors, alrededor de las 9:48 AM; luego rumbo al norte por Coors.",
+   "lat": 35.14953,
+   "lon": -106.68623,
+   "geocoded_as": "Montaño Rd & Coors Blvd NW"
+  },
+  {
+   "post_id": "wa-20261110-1012-mesa-del-sol",
+   "url": "",
+   "time_local": "2026-11-10 10:12",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "University Blvd y Crick Ave SE, Mesa del Sol",
+   "summary": "Reporte de WhatsApp: trocas de ICE en Mesa del Sol, entrando por University y Crick Ave, alrededor de las 10:12 AM.",
+   "lat": 35.00052,
+   "lon": -106.62179,
+   "geocoded_as": "Crick Ave SE & University Blvd SE"
+  },
+  {
+   "post_id": "wa-20261110-1110-tierra-west",
+   "url": "",
+   "time_local": "2026-11-10 11:10",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Tierra West, Atrisco Vista Blvd y Central Ave",
+   "summary": "Reporte de WhatsApp: Tierra West limpio, alrededor de las 11:10 AM.",
+   "lat": 35.06281,
+   "lon": -106.78649,
+   "geocoded_as": "Atrisco Vista Blvd SW & Central Ave"
+  },
+  {
+   "post_id": "wa-20261110-1120-tramway-central",
+   "url": "",
+   "time_local": "2026-11-10 11:20",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Tramway Blvd y Central Ave NE",
+   "summary": "Reporte de WhatsApp: Tramway y Central todo limpio, alrededor de las 11:20 AM.",
+   "lat": 35.06824,
+   "lon": -106.4977,
+   "geocoded_as": "Central Ave NE & Tramway Blvd NE"
+  },
+  {
+   "post_id": "wa-20261110-1122-cerro-mission-van-camp",
+   "url": "",
+   "time_local": "2026-11-10 11:22",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "El Cerro Mission Rd y Van Camp Blvd, Los Lunas",
+   "summary": "Reporte de WhatsApp: presencia en el área de construcción en Los Lunas, por El Cerro Mission Rd y Van Camp Blvd, alrededor de las 11:22 AM.",
+   "lat": 34.76837,
+   "lon": -106.64074,
+   "geocoded_as": "Airport Rd & El Cerro Mission Rd & Van Camp Blvd"
   }
  ],
  "archive": [
+  {
+   "post_id": "2318326415568341",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318326415568341/",
+   "time_local": "2026-11-10 11:27",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location_hint": "Los Lunas",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 0
+  },
+  {
+   "post_id": "2318326268901689",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318326268901689/",
+   "time_local": "2026-11-10 11:27",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location_hint": "",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 2
+  },
+  {
+   "post_id": "2318324198901896",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318324198901896/",
+   "time_local": "2026-11-10 11:25",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location_hint": "Central, Wyoming",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 0
+  },
   {
    "post_id": "2318320692235580",
    "url": "https://facebook.com/groups/2292669074800742/permalink/2318320692235580/",
@@ -1269,6 +1662,39 @@
    "has_text": true,
    "reacts": 2,
    "comments": 1
+  },
+  {
+   "post_id": "2318318025569180",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318318025569180/",
+   "time_local": "2026-11-10 11:16",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location_hint": "Los Lunas",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 7
+  },
+  {
+   "post_id": "2318317085569274",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318317085569274/",
+   "time_local": "2026-11-10 11:15",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location_hint": "Los Lunas",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 2
+  },
+  {
+   "post_id": "2318313338902982",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318313338902982/",
+   "time_local": "2026-11-10 11:10",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "Los Lunas",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 5
   },
   {
    "post_id": "2318312638903052",
@@ -1282,6 +1708,17 @@
    "comments": 1
   },
   {
+   "post_id": "2318310305569952",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318310305569952/",
+   "time_local": "2026-11-10 11:06",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "Coors, Rio Bravo, Blake",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 2
+  },
+  {
    "post_id": "2318310172236632",
    "url": "https://facebook.com/groups/2292669074800742/permalink/2318310172236632/",
    "time_local": "2026-11-10 11:05",
@@ -1291,6 +1728,17 @@
    "has_text": false,
    "reacts": 12,
    "comments": 2
+  },
+  {
+   "post_id": "2318309738903342",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318309738903342/",
+   "time_local": "2026-11-10 11:05",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "Los Lunas",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 0
   },
   {
    "post_id": "2318296558904660",
