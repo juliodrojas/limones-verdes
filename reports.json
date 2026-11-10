@@ -1,5 +1,5 @@
 {
- "generated_at_mst": "2026-11-10 11:54 MST",
+ "generated_at_mst": "2026-11-10 14:06 MST",
  "group": {
   "name": "Limones Verdes Albuquerque",
   "id": "2292669074800742",
@@ -7,17 +7,17 @@
   "created": "2026-10-16",
   "members": "~6,000"
  },
- "total_scraped": 253,
+ "total_scraped": 266,
  "scrape_range": {
   "first": "2026-10-16",
   "last": "2026-11-09"
  },
  "counts": {
-  "mapped_last_7d": 133,
-  "mapped_last_3d": 121,
-  "posts_last_7d": 214,
-  "posts_last_3d": 179,
-  "unmappable_last_7d": 79,
+  "mapped_last_7d": 148,
+  "mapped_last_3d": 136,
+  "posts_last_7d": 227,
+  "posts_last_3d": 192,
+  "unmappable_last_7d": 77,
   "unpinned_last_7d": 3
  },
  "entries": [
@@ -1616,9 +1616,332 @@
    "lat": 34.76837,
    "lon": -106.64074,
    "geocoded_as": "Airport Rd & El Cerro Mission Rd & Van Camp Blvd"
+  },
+  {
+   "post_id": "2318336995567283",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318336995567283/",
+   "time_local": "2026-11-10 11:42",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "Coors Blvd SW y Sage Rd SW",
+   "summary": "Reporte: confirman presencia en Sage y Coors, alrededor de las 11:42 AM.",
+   "lat": 35.06029,
+   "lon": -106.70803,
+   "geocoded_as": "Coors Blvd SW & Sage Rd SW"
+  },
+  {
+   "post_id": "2318342082233441",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318342082233441/",
+   "time_local": "2026-11-10 11:48",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "Coors Blvd SW y Sage Rd SW",
+   "summary": "Reporte: advierten a quienes viven en los parqueaderos de trailas de Sage y Coors que no salgan, alrededor de las 11:48 AM.",
+   "lat": 35.06029,
+   "lon": -106.70803,
+   "geocoded_as": "Coors Blvd SW & Sage Rd SW"
+  },
+  {
+   "post_id": "2318312638903052",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318312638903052/",
+   "time_local": "2026-11-10 11:09",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "Old Coors Dr y Sage Rd SW",
+   "summary": "Reporte: comparten aviso de presencia en Old Coors y Sage, alrededor de las 11:09 AM.",
+   "lat": 35.06118,
+   "lon": -106.70355,
+   "geocoded_as": "Old Coors Dr SW & Sage Rd SW"
+  },
+  {
+   "post_id": "2318310172236632",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318310172236632/",
+   "time_local": "2026-11-10 11:05",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "Old Coors Dr y Sage Rd SW",
+   "summary": "Reporte: comparten aviso de presencia en Old Coors y Sage, alrededor de las 11:05 AM.",
+   "lat": 35.06118,
+   "lon": -106.70355,
+   "geocoded_as": "Old Coors Dr SW & Sage Rd SW"
+  },
+  {
+   "post_id": "iceout-20261110-0940-unser-rio-rancho",
+   "url": "",
+   "time_local": "2026-11-10 09:40",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "2011 Unser Blvd SE, Rio Rancho",
+   "summary": "Reporte de ICEOut, sin confirmar: vigilancia/presencia reportada alrededor de las 9:40 AM en Unser Blvd SE, Rio Rancho; un vehículo y un agente señalados.",
+   "lat": 35.22427,
+   "lon": -106.69694,
+   "geocoded_as": "2011 Unser Blvd SE, Rio Rancho"
+  },
+  {
+   "post_id": "fb2-20261110-1228-illescas-cerro-mision-tome-vista",
+   "url": "",
+   "time_local": "2026-11-10 12:28",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "El Cerro Mission Rd y Tome Vista Dr, Los Lunas",
+   "summary": "Reporte de Illescas San Luis Potosí, sin confirmar: llegada de Migración en Tome Vista, en el Cerro Misión (Tome, cerca de Los Lunas), alrededor de las 12:28 PM; se reporta la detención de unos plomeros.",
+   "lat": 34.77229,
+   "lon": -106.6716,
+   "geocoded_as": "El Cerro Mission Rd & Tome Vista Dr"
+  },
+  {
+   "post_id": "2318405145560468",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318405145560468/",
+   "time_local": "2026-11-10 13:10",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "Gibson Blvd SE y Dakota St SE",
+   "summary": "Reporte: avistamiento en Gibson y Dakota, junto al local de pollo, alrededor de la 1:10 PM.",
+   "lat": 35.05819,
+   "lon": -106.57433,
+   "geocoded_as": "Dakota St SE & Gibson Blvd SE"
+  },
+  {
+   "post_id": "2318373065563676",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318373065563676/",
+   "time_local": "2026-11-10 12:31",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "Isleta Blvd SW y Goff Blvd SW (Price Rite)",
+   "summary": "Reporte: persona tomando fotos en el estacionamiento del Price Rite, en Isleta y Goff, alrededor de las 12:31 PM.",
+   "lat": 35.05352,
+   "lon": -106.67774,
+   "geocoded_as": "Isleta Blvd SW & Goff Blvd SW"
+  },
+  {
+   "post_id": "wa-20261110-1229-528-southern",
+   "url": "",
+   "time_local": "2026-11-10 12:29",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "NM-528 y Southern Blvd SE, Rio Rancho",
+   "summary": "Reporte de WhatsApp: limpio por la 528 y Southern, rumbo a Albuquerque.",
+   "lat": 35.24114,
+   "lon": -106.65601,
+   "geocoded_as": "Rio Rancho Blvd SE & Southern Blvd SE"
+  },
+  {
+   "post_id": "wa-20261110-1238-98th-blake",
+   "url": "",
+   "time_local": "2026-11-10 12:38",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "98th St y Blake Rd SW",
+   "summary": "Reporte de WhatsApp: limpio por 98 y Blake.",
+   "lat": 35.03943,
+   "lon": -106.73728,
+   "geocoded_as": "98th St SW & Blake Rd SW"
+  },
+  {
+   "post_id": "wa-20261110-1254-rio-bravo-broadway",
+   "url": "",
+   "time_local": "2026-11-10 12:54",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "Rio Bravo Blvd y Broadway Blvd SE",
+   "summary": "Reporte de WhatsApp: están checando por Río Bravo y Broadway, recorriendo el área.",
+   "lat": 35.02531,
+   "lon": -106.64645,
+   "geocoded_as": "Broadway Blvd SE & Rio Bravo Blvd SE"
+  },
+  {
+   "post_id": "wa-20261110-1312-san-jose-allclear",
+   "url": "",
+   "time_local": "2026-11-10 13:12",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "William St y San Jose Ave SE (Escuela East San Jose)",
+   "summary": "Reporte de WhatsApp: por la escuela San José no se ve nada.",
+   "lat": 35.05495,
+   "lon": -106.6524,
+   "geocoded_as": "San Jose Ave SE & William St SE"
+  },
+  {
+   "post_id": "wa-20261110-1316-san-mateo-central",
+   "url": "",
+   "time_local": "2026-11-10 13:16",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "San Mateo Blvd, de I-40 a Central Ave (pin en San Mateo y Central)",
+   "summary": "Reporte de WhatsApp: libre San Mateo desde la I-40 hasta Central.",
+   "lat": 35.0779,
+   "lon": -106.58635,
+   "geocoded_as": "Central Ave & San Mateo Blvd NE"
+  },
+  {
+   "post_id": "wa-20261110-1326-zuni-san-mateo",
+   "url": "",
+   "time_local": "2026-11-10 13:26",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "Zuni Rd y San Mateo Blvd SE (AutoZone)",
+   "summary": "Reporte de WhatsApp: presencia por Zuni y San Mateo, a la altura del AutoZone.",
+   "lat": 35.07285,
+   "lon": -106.58635,
+   "geocoded_as": "San Mateo Blvd SE & Zuni Rd SE"
+  },
+  {
+   "post_id": "iceout-20261110-1130-pacifica-soquel",
+   "url": "",
+   "time_local": "2026-11-10 11:30",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "Pacifica Dr y Soquel Rd, Los Lunas",
+   "summary": "Reporte de ICEOut, sin confirmar: vigilancia/presencia reportada alrededor de las 11:30 AM en Pacifica Dr, zona de Monterrey Park, Los Lunas; se señalan 5 o más vehículos y 8 o más agentes.",
+   "lat": 34.75545,
+   "lon": -106.65282,
+   "geocoded_as": "Pacifica Dr & Soquel Rd"
   }
  ],
  "archive": [
+  {
+   "post_id": "2318405145560468",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318405145560468/",
+   "time_local": "2026-11-10 13:10",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location_hint": "Gibson",
+   "has_text": true,
+   "reacts": 14,
+   "comments": 6
+  },
+  {
+   "post_id": "2318401912227458",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318401912227458/",
+   "time_local": "2026-11-10 13:06",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "",
+   "has_text": true,
+   "reacts": 4,
+   "comments": 6
+  },
+  {
+   "post_id": "2318377418896574",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318377418896574/",
+   "time_local": "2026-11-10 12:36",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location_hint": "",
+   "has_text": true,
+   "reacts": 10,
+   "comments": 2
+  },
+  {
+   "post_id": "2318373065563676",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318373065563676/",
+   "time_local": "2026-11-10 12:31",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location_hint": "Isleta",
+   "has_text": true,
+   "reacts": 38,
+   "comments": 3
+  },
+  {
+   "post_id": "2318371455563837",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318371455563837/",
+   "time_local": "2026-11-10 12:28",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location_hint": "",
+   "has_text": true,
+   "reacts": 15,
+   "comments": 5
+  },
+  {
+   "post_id": "2318359452231704",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318359452231704/",
+   "time_local": "2026-11-10 12:12",
+   "date": "2026-11-10",
+   "type": "sin-texto",
+   "location_hint": "",
+   "has_text": false,
+   "reacts": 7,
+   "comments": 6
+  },
+  {
+   "post_id": "2318349005566082",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318349005566082/",
+   "time_local": "2026-11-10 11:58",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location_hint": "",
+   "has_text": true,
+   "reacts": 38,
+   "comments": 14
+  },
+  {
+   "post_id": "2318346102233039",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318346102233039/",
+   "time_local": "2026-11-10 11:54",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "Rio Bravo, 2nd",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 2
+  },
+  {
+   "post_id": "2318344058899910",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318344058899910/",
+   "time_local": "2026-11-10 11:51",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "Los Lunas",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 4
+  },
+  {
+   "post_id": "2318342082233441",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318342082233441/",
+   "time_local": "2026-11-10 11:48",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "Coors, Sage",
+   "has_text": true,
+   "reacts": 47,
+   "comments": 5
+  },
+  {
+   "post_id": "2318341302233519",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318341302233519/",
+   "time_local": "2026-11-10 11:48",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location_hint": "Los Lunas",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 0
+  },
+  {
+   "post_id": "2318337358900580",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318337358900580/",
+   "time_local": "2026-11-10 11:42",
+   "date": "2026-11-10",
+   "type": "sin-texto",
+   "location_hint": "",
+   "has_text": false,
+   "reacts": 20,
+   "comments": 1
+  },
+  {
+   "post_id": "2318336995567283",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318336995567283/",
+   "time_local": "2026-11-10 11:42",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location_hint": "Coors, Sage",
+   "has_text": true,
+   "reacts": 37,
+   "comments": 8
+  },
   {
    "post_id": "2318326415568341",
    "url": "https://facebook.com/groups/2292669074800742/permalink/2318326415568341/",
@@ -1660,7 +1983,7 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 2,
+   "reacts": 31,
    "comments": 1
   },
   {
@@ -1694,7 +2017,7 @@
    "location_hint": "Los Lunas",
    "has_text": true,
    "reacts": 0,
-   "comments": 5
+   "comments": 7
   },
   {
    "post_id": "2318312638903052",
@@ -1704,8 +2027,8 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 5,
-   "comments": 1
+   "reacts": 12,
+   "comments": 2
   },
   {
    "post_id": "2318310305569952",
@@ -1716,7 +2039,7 @@
    "location_hint": "Coors, Rio Bravo, Blake",
    "has_text": true,
    "reacts": 0,
-   "comments": 2
+   "comments": 3
   },
   {
    "post_id": "2318310172236632",
@@ -1726,8 +2049,8 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 12,
-   "comments": 2
+   "reacts": 16,
+   "comments": 1
   },
   {
    "post_id": "2318309738903342",
@@ -1748,7 +2071,7 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 2,
+   "reacts": 4,
    "comments": 0
   },
   {
@@ -1759,7 +2082,7 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 7,
+   "reacts": 11,
    "comments": 2
   },
   {
@@ -1771,7 +2094,7 @@
    "location_hint": "",
    "has_text": true,
    "reacts": 0,
-   "comments": 2
+   "comments": 7
   },
   {
    "post_id": "2318247715576211",
@@ -1782,7 +2105,7 @@
    "location_hint": "",
    "has_text": true,
    "reacts": 0,
-   "comments": 1
+   "comments": 3
   },
   {
    "post_id": "2318247642242885",
@@ -1803,8 +2126,8 @@
    "type": "alert",
    "location_hint": "",
    "has_text": true,
-   "reacts": 15,
-   "comments": 28
+   "reacts": 23,
+   "comments": 35
   },
   {
    "post_id": "2318242565576726",
@@ -1836,7 +2159,7 @@
    "type": "all-clear",
    "location_hint": "Coors, Rio Bravo, Blake",
    "has_text": true,
-   "reacts": 2,
+   "reacts": 3,
    "comments": 0
   },
   {
@@ -1891,7 +2214,7 @@
    "type": "all-clear",
    "location_hint": "Coors, Bridge",
    "has_text": true,
-   "reacts": 6,
+   "reacts": 7,
    "comments": 0
   },
   {
@@ -1913,7 +2236,7 @@
    "type": "alert",
    "location_hint": "Broadway",
    "has_text": true,
-   "reacts": 45,
+   "reacts": 51,
    "comments": 11
   },
   {
@@ -1924,7 +2247,7 @@
    "type": "alert",
    "location_hint": "",
    "has_text": true,
-   "reacts": 19,
+   "reacts": 23,
    "comments": 10
   },
   {
@@ -1935,7 +2258,7 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 16,
+   "reacts": 18,
    "comments": 5
   },
   {
@@ -1957,7 +2280,7 @@
    "type": "all-clear",
    "location_hint": "Central, Atrisco",
    "has_text": true,
-   "reacts": 9,
+   "reacts": 10,
    "comments": 0
   },
   {
@@ -1968,8 +2291,8 @@
    "type": "info",
    "location_hint": "Broadway",
    "has_text": true,
-   "reacts": 37,
-   "comments": 15
+   "reacts": 55,
+   "comments": 17
   },
   {
    "post_id": "2318190415581941",
@@ -1979,7 +2302,7 @@
    "type": "all-clear",
    "location_hint": "Rio Bravo, Broadway, Isleta",
    "has_text": true,
-   "reacts": 11,
+   "reacts": 15,
    "comments": 0
   },
   {
@@ -2012,8 +2335,8 @@
    "type": "alert",
    "location_hint": "",
    "has_text": true,
-   "reacts": 23,
-   "comments": 9
+   "reacts": 30,
+   "comments": 10
   },
   {
    "post_id": "2318151962252453",
@@ -2034,7 +2357,7 @@
    "type": "alert",
    "location_hint": "",
    "has_text": true,
-   "reacts": 36,
+   "reacts": 38,
    "comments": 15
   },
   {
@@ -2067,7 +2390,7 @@
    "type": "all-clear",
    "location_hint": "",
    "has_text": true,
-   "reacts": 20,
+   "reacts": 21,
    "comments": 1
   },
   {
@@ -2089,8 +2412,8 @@
    "type": "info",
    "location_hint": "Central, Wyoming",
    "has_text": true,
-   "reacts": 77,
-   "comments": 13
+   "reacts": 92,
+   "comments": 23
   },
   {
    "post_id": "2318119088922407",
@@ -2287,7 +2610,7 @@
    "type": "alert",
    "location_hint": "",
    "has_text": true,
-   "reacts": 20,
+   "reacts": 22,
    "comments": 1
   },
   {
@@ -2320,7 +2643,7 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 5,
+   "reacts": 6,
    "comments": 1
   },
   {
@@ -2573,8 +2896,8 @@
    "type": "alert",
    "location_hint": "Central, Wyoming",
    "has_text": true,
-   "reacts": 68,
-   "comments": 29
+   "reacts": 70,
+   "comments": 30
   },
   {
    "post_id": "2317363538997962",
@@ -3024,8 +3347,8 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 1061,
-   "comments": 16
+   "reacts": 1417,
+   "comments": 21
   },
   {
    "post_id": "2316977825703200",
@@ -3145,8 +3468,8 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 425,
-   "comments": 41
+   "reacts": 436,
+   "comments": 44
   },
   {
    "post_id": "2316406315760351",
