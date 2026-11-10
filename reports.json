@@ -1,5 +1,5 @@
 {
- "generated_at_mst": "2026-11-09 18:27 MST",
+ "generated_at_mst": "2026-11-09 19:41 MST",
  "group": {
   "name": "Limones Verdes Albuquerque",
   "id": "2292669074800742",
@@ -7,17 +7,17 @@
   "created": "2026-10-16",
   "members": "~6,000"
  },
- "total_scraped": 178,
+ "total_scraped": 180,
  "scrape_range": {
   "first": "2026-10-16",
   "last": "2026-11-09"
  },
  "counts": {
-  "mapped_last_7d": 52,
-  "mapped_last_3d": 40,
-  "posts_last_7d": 139,
-  "posts_last_3d": 104,
-  "unmappable_last_7d": 85,
+  "mapped_last_7d": 53,
+  "mapped_last_3d": 41,
+  "posts_last_7d": 141,
+  "posts_last_3d": 106,
+  "unmappable_last_7d": 86,
   "unpinned_last_7d": 3
  },
  "entries": [
@@ -644,6 +644,18 @@
    "lat": 35.01505,
    "lon": -106.66049,
    "geocoded_as": "2nd St SW & Bowers Rd SW & Prosperity Ave SE"
+  },
+  {
+   "post_id": "2317476465653336",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2317476465653336/",
+   "time_local": "2026-11-09 17:47",
+   "date": "2026-11-09",
+   "type": "all-clear",
+   "location": "Wyoming Blvd y Lomas Blvd NE",
+   "summary": "Limpio: por San Pedro se llega a Wyoming y toda Wyoming está limpia hasta Lomas, según reporte de las 5:48 p. m.",
+   "lat": 35.08729,
+   "lon": -106.5507,
+   "geocoded_as": "Lomas Blvd NE & Wyoming Blvd NE"
   }
  ],
  "archive": [
@@ -655,8 +667,19 @@
    "type": "all-clear",
    "location_hint": "Louisiana, Montgomery",
    "has_text": true,
-   "reacts": 3,
-   "comments": 0
+   "reacts": 4,
+   "comments": 5
+  },
+  {
+   "post_id": "2317476465653336",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2317476465653336/",
+   "time_local": "2026-11-09 17:47",
+   "date": "2026-11-09",
+   "type": "all-clear",
+   "location_hint": "Wyoming, Lomas, San Pedro",
+   "has_text": true,
+   "reacts": 11,
+   "comments": 1
   },
   {
    "post_id": "2317471202320529",
@@ -666,8 +689,19 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 5,
-   "comments": 1
+   "reacts": 27,
+   "comments": 12
+  },
+  {
+   "post_id": "2317467272320922",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2317467272320922/",
+   "time_local": "2026-11-09 17:32",
+   "date": "2026-11-09",
+   "type": "all-clear",
+   "location_hint": "Central, San Mateo",
+   "has_text": true,
+   "reacts": 12,
+   "comments": 0
   },
   {
    "post_id": "2317449925655990",
@@ -688,7 +722,7 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 5,
+   "reacts": 6,
    "comments": 0
   },
   {
@@ -710,7 +744,7 @@
    "type": "info",
    "location_hint": "Central, Wyoming",
    "has_text": true,
-   "reacts": 15,
+   "reacts": 19,
    "comments": 1
   },
   {
@@ -721,7 +755,7 @@
    "type": "info",
    "location_hint": "Bridge",
    "has_text": true,
-   "reacts": 20,
+   "reacts": 24,
    "comments": 0
   },
   {
@@ -732,7 +766,7 @@
    "type": "info",
    "location_hint": "Coors, I-40",
    "has_text": true,
-   "reacts": 24,
+   "reacts": 30,
    "comments": 1
   },
   {
@@ -765,8 +799,8 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 5,
-   "comments": 7
+   "reacts": 6,
+   "comments": 9
   },
   {
    "post_id": "2317382895662693",
@@ -776,8 +810,8 @@
    "type": "alert",
    "location_hint": "Central, Wyoming",
    "has_text": true,
-   "reacts": 57,
-   "comments": 22
+   "reacts": 61,
+   "comments": 28
   },
   {
    "post_id": "2317363538997962",
@@ -809,7 +843,7 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 25,
+   "reacts": 26,
    "comments": 5
   },
   {
@@ -831,8 +865,8 @@
    "type": "help",
    "location_hint": "Eubank, Lomas",
    "has_text": true,
-   "reacts": 154,
-   "comments": 19
+   "reacts": 158,
+   "comments": 25
   },
   {
    "post_id": "2317344635666519",
@@ -864,7 +898,7 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 51,
+   "reacts": 54,
    "comments": 4
   },
   {
@@ -919,7 +953,7 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 40,
+   "reacts": 41,
    "comments": 8
   },
   {
@@ -941,7 +975,7 @@
    "type": "alert",
    "location_hint": "Andaluz",
    "has_text": true,
-   "reacts": 54,
+   "reacts": 57,
    "comments": 6
   },
   {
@@ -963,7 +997,7 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 1,
+   "reacts": 5,
    "comments": 0
   },
   {
@@ -1843,7 +1877,7 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 237,
+   "reacts": 238,
    "comments": 24
   },
   {
