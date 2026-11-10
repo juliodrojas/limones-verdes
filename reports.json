@@ -1,5 +1,5 @@
 {
- "generated_at_mst": "2026-11-10 07:47 MST",
+ "generated_at_mst": "2026-11-10 07:53 MST",
  "group": {
   "name": "Limones Verdes Albuquerque",
   "id": "2292669074800742",
@@ -979,7 +979,7 @@
    "type": "all-clear",
    "location_hint": "Lomas",
    "has_text": true,
-   "reacts": 2,
+   "reacts": 7,
    "comments": 0
   },
   {
@@ -990,7 +990,7 @@
    "type": "all-clear",
    "location_hint": "",
    "has_text": true,
-   "reacts": 5,
+   "reacts": 8,
    "comments": 1
   },
   {
@@ -1012,7 +1012,7 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 24,
+   "reacts": 25,
    "comments": 0
   },
   {
@@ -1936,8 +1936,8 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 394,
-   "comments": 27
+   "reacts": 409,
+   "comments": 39
   },
   {
    "post_id": "2316406315760351",
