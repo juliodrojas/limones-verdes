@@ -1,5 +1,5 @@
 {
- "generated_at_mst": "2026-11-10 20:24 MST",
+ "generated_at_mst": "2026-11-10 21:22 MST",
  "group": {
   "name": "Limones Verdes Albuquerque",
   "id": "2292669074800742",
@@ -7,16 +7,16 @@
   "created": "2026-10-16",
   "members": "~6,000"
  },
- "total_scraped": 333,
+ "total_scraped": 334,
  "scrape_range": {
   "first": "2026-10-16",
   "last": "2026-11-09"
  },
  "counts": {
-  "mapped_last_7d": 195,
+  "mapped_last_7d": 196,
   "mapped_last_3d": 182,
-  "posts_last_7d": 294,
-  "posts_last_3d": 259,
+  "posts_last_7d": 295,
+  "posts_last_3d": 260,
   "unmappable_last_7d": 97,
   "unpinned_last_7d": 3
  },
@@ -2360,9 +2360,32 @@
    "lat": 35.14953,
    "lon": -106.68623,
    "geocoded_as": "Coors Blvd NW & Montano Rd NW"
+  },
+  {
+   "post_id": "fb2-20261105-0653-alerta-nacional-montano-2nd",
+   "url": "",
+   "time_local": "2026-11-05 06:53",
+   "date": "2026-11-05",
+   "type": "alert",
+   "location": "2nd St y Montaño Rd NW",
+   "summary": "Reporte de Alerta Nacional: el 4 de noviembre detuvieron a un hombre de una van de una compañía de fibra en 2nd St y Montaño Rd NW.",
+   "lat": 35.1382,
+   "lon": -106.63685,
+   "geocoded_as": "2nd St NW & Montano Rd NW"
   }
  ],
  "archive": [
+  {
+   "post_id": "2318699695531013",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318699695531013/",
+   "time_local": "2026-11-10 20:31",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "Isleta, McDonald's",
+   "has_text": true,
+   "reacts": 5,
+   "comments": 0
+  },
   {
    "post_id": "2318685912199058",
    "url": "https://facebook.com/groups/2292669074800742/permalink/2318685912199058/",
@@ -2382,7 +2405,7 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 0,
+   "reacts": 3,
    "comments": 0
   },
   {
@@ -2426,8 +2449,8 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 9,
-   "comments": 0
+   "reacts": 26,
+   "comments": 1
   },
   {
    "post_id": "2318653572202292",
@@ -2437,8 +2460,8 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 4,
-   "comments": 1
+   "reacts": 9,
+   "comments": 3
   },
   {
    "post_id": "2318634105537572",
@@ -2448,7 +2471,7 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 5,
+   "reacts": 6,
    "comments": 2
   },
   {
@@ -2459,8 +2482,8 @@
    "type": "info",
    "location_hint": "Coors, Montaño",
    "has_text": true,
-   "reacts": 9,
-   "comments": 5
+   "reacts": 11,
+   "comments": 7
   },
   {
    "post_id": "2318622595538723",
@@ -2481,7 +2504,7 @@
    "type": "alert",
    "location_hint": "Belen",
    "has_text": true,
-   "reacts": 11,
+   "reacts": 13,
    "comments": 11
   },
   {
@@ -2492,8 +2515,8 @@
    "type": "alert",
    "location_hint": "Meadow Lake",
    "has_text": true,
-   "reacts": 10,
-   "comments": 9
+   "reacts": 17,
+   "comments": 12
   },
   {
    "post_id": "2318601532207496",
@@ -2503,8 +2526,8 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 19,
-   "comments": 2
+   "reacts": 25,
+   "comments": 3
   },
   {
    "post_id": "2318593815541601",
@@ -2547,7 +2570,7 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 117,
+   "reacts": 127,
    "comments": 12
   },
   {
@@ -2580,8 +2603,8 @@
    "type": "alert",
    "location_hint": "Meadow Lake",
    "has_text": true,
-   "reacts": 39,
-   "comments": 21
+   "reacts": 42,
+   "comments": 22
   },
   {
    "post_id": "2318564178877898",
@@ -2646,7 +2669,7 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 8,
+   "reacts": 10,
    "comments": 2
   },
   {
@@ -2701,7 +2724,7 @@
    "type": "alert",
    "location_hint": "",
    "has_text": true,
-   "reacts": 111,
+   "reacts": 118,
    "comments": 12
   },
   {
@@ -2712,7 +2735,7 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 11,
+   "reacts": 14,
    "comments": 13
   },
   {
@@ -2734,7 +2757,7 @@
    "type": "alert",
    "location_hint": "Los Lunas",
    "has_text": true,
-   "reacts": 9,
+   "reacts": 10,
    "comments": 7
   },
   {
@@ -2745,7 +2768,7 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 64,
+   "reacts": 65,
    "comments": 7
   },
   {
@@ -2756,7 +2779,7 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 6,
+   "reacts": 7,
    "comments": 3
   },
   {
@@ -2800,7 +2823,7 @@
    "type": "info",
    "location_hint": "Rio Bravo, Isleta",
    "has_text": true,
-   "reacts": 32,
+   "reacts": 34,
    "comments": 4
   },
   {
@@ -2811,7 +2834,7 @@
    "type": "info",
    "location_hint": "Rio Bravo, Isleta",
    "has_text": true,
-   "reacts": 27,
+   "reacts": 32,
    "comments": 1
   },
   {
@@ -2987,7 +3010,7 @@
    "type": "info",
    "location_hint": "San Mateo",
    "has_text": true,
-   "reacts": 68,
+   "reacts": 71,
    "comments": 1
   },
   {
@@ -3009,7 +3032,7 @@
    "type": "alert",
    "location_hint": "Los Lunas, I-25",
    "has_text": true,
-   "reacts": 40,
+   "reacts": 41,
    "comments": 2
   },
   {
@@ -3020,7 +3043,7 @@
    "type": "all-clear",
    "location_hint": "",
    "has_text": true,
-   "reacts": 14,
+   "reacts": 16,
    "comments": 9
   },
   {
@@ -3427,8 +3450,8 @@
    "type": "alert",
    "location_hint": "",
    "has_text": true,
-   "reacts": 28,
-   "comments": 42
+   "reacts": 30,
+   "comments": 43
   },
   {
    "post_id": "2318242565576726",
@@ -3713,7 +3736,7 @@
    "type": "info",
    "location_hint": "Central, Wyoming",
    "has_text": true,
-   "reacts": 121,
+   "reacts": 128,
    "comments": 24
   },
   {
@@ -5451,8 +5474,8 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 744,
-   "comments": 58
+   "reacts": 797,
+   "comments": 60
   },
   {
    "post_id": "2312036266197356",
