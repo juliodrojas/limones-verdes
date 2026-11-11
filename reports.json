@@ -1,5 +1,5 @@
 {
- "generated_at_mst": "2026-11-10 19:37 MST",
+ "generated_at_mst": "2026-11-10 19:48 MST",
  "group": {
   "name": "Limones Verdes Albuquerque",
   "id": "2292669074800742",
@@ -13,11 +13,11 @@
   "last": "2026-11-09"
  },
  "counts": {
-  "mapped_last_7d": 191,
-  "mapped_last_3d": 178,
+  "mapped_last_7d": 194,
+  "mapped_last_3d": 181,
   "posts_last_7d": 283,
   "posts_last_3d": 248,
-  "unmappable_last_7d": 90,
+  "unmappable_last_7d": 87,
   "unpinned_last_7d": 3
  },
  "entries": [
@@ -2246,9 +2246,9 @@
    "url": "",
    "time_local": "2026-11-10 16:49",
    "date": "2026-11-10",
-   "type": "all-clear",
+   "type": "alert",
    "location": "2nd St NW y Alameda Blvd NW",
-   "summary": "Reporte de WhatsApp: 2nd y Alameda libre, solo se vio policía.",
+   "summary": "Reporte de WhatsApp: 2nd y Alameda libre de ICE, solo se vio policía — se reporta la presencia policial por el rastro.",
    "lat": 35.18807,
    "lon": -106.61395,
    "geocoded_as": "2nd St NW & Alameda Blvd NW, Albuquerque, NM 87114, United States"
@@ -2312,6 +2312,42 @@
    "lat": 35.14512,
    "lon": -106.69287,
    "geocoded_as": "Coors Blvd NW & Dellyne Ave NW, Albuquerque, NM 87120, United States"
+  },
+  {
+   "post_id": "wa-20261110-1835-isleta-barcelona",
+   "url": "",
+   "time_local": "2026-11-10 18:35",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "Isleta Blvd SW y Barcelona Rd SW",
+   "summary": "Reporte de WhatsApp: reportan ICE en Isleta y Barcelona, al parecer pararon a una troca de trabajo; sin foto, de segunda mano.",
+   "lat": 35.03065,
+   "lon": -106.67969,
+   "geocoded_as": "Barcelona Rd SW & Isleta Blvd SW, Albuquerque, NM 87105, United States"
+  },
+  {
+   "post_id": "wa-20261110-1905-isleta-barcelona",
+   "url": "",
+   "time_local": "2026-11-10 19:05",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Isleta Blvd SW y Barcelona Rd SW",
+   "summary": "Reporte de WhatsApp: en el semáforo de Barcelona e Isleta no se ve nada.",
+   "lat": 35.03065,
+   "lon": -106.67969,
+   "geocoded_as": "Barcelona Rd SW & Isleta Blvd SW, Albuquerque, NM 87105, United States"
+  },
+  {
+   "post_id": "wa-20261110-1901-barcelona-coors",
+   "url": "",
+   "time_local": "2026-11-10 19:01",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "Barcelona Rd SW y Coors Blvd SW",
+   "summary": "Reporte de WhatsApp: muchas patrullas y sheriff en Barcelona y Coors, sin ICE a la vista — se reporta la presencia policial por el rastro.",
+   "lat": 35.0305,
+   "lon": -106.71355,
+   "geocoded_as": "Barcelona Rd SW & Coors Blvd SW, Albuquerque, NM, United States"
   }
  ],
  "archive": [
