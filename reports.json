@@ -1,5 +1,5 @@
 {
- "generated_at_mst": "2026-11-10 19:52 MST",
+ "generated_at_mst": "2026-11-10 19:53 MST",
  "group": {
   "name": "Limones Verdes Albuquerque",
   "id": "2292669074800742",
@@ -13,11 +13,11 @@
   "last": "2026-11-09"
  },
  "counts": {
-  "mapped_last_7d": 194,
-  "mapped_last_3d": 181,
+  "mapped_last_7d": 195,
+  "mapped_last_3d": 182,
   "posts_last_7d": 288,
   "posts_last_3d": 253,
-  "unmappable_last_7d": 92,
+  "unmappable_last_7d": 91,
   "unpinned_last_7d": 3
  },
  "entries": [
@@ -2348,6 +2348,18 @@
    "lat": 35.0305,
    "lon": -106.71355,
    "geocoded_as": "Barcelona Rd SW & Coors Blvd SW, Albuquerque, NM, United States"
+  },
+  {
+   "post_id": "2318627312204918",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318627312204918/",
+   "time_local": "2026-11-10 18:55",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "Coors Blvd NW y Montaño Rd NW",
+   "summary": "Reporte: avistamiento en Montaño y Coors, alrededor de las 6:55 PM.",
+   "lat": 35.14953,
+   "lon": -106.68623,
+   "geocoded_as": "Coors Blvd NW & Montano Rd NW"
   }
  ],
  "archive": [
