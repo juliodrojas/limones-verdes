@@ -1,5 +1,5 @@
 {
- "generated_at_mst": "2026-11-10 14:53 MST",
+ "generated_at_mst": "2026-11-10 19:37 MST",
  "group": {
   "name": "Limones Verdes Albuquerque",
   "id": "2292669074800742",
@@ -7,17 +7,17 @@
   "created": "2026-10-16",
   "members": "~6,000"
  },
- "total_scraped": 273,
+ "total_scraped": 322,
  "scrape_range": {
   "first": "2026-10-16",
   "last": "2026-11-09"
  },
  "counts": {
-  "mapped_last_7d": 152,
-  "mapped_last_3d": 139,
-  "posts_last_7d": 234,
-  "posts_last_3d": 199,
-  "unmappable_last_7d": 80,
+  "mapped_last_7d": 191,
+  "mapped_last_3d": 178,
+  "posts_last_7d": 283,
+  "posts_last_3d": 248,
+  "unmappable_last_7d": 90,
   "unpinned_last_7d": 3
  },
  "entries": [
@@ -1844,9 +1844,1016 @@
    "lat": 35.07434,
    "lon": -106.55376,
    "geocoded_as": "Central Ave & Vermont St NE"
+  },
+  {
+   "post_id": "wa-20261110-1403-gibson-broadway",
+   "url": "",
+   "time_local": "2026-11-10 14:03",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Gibson Blvd SE y Broadway Blvd SE",
+   "summary": "Reporte de WhatsApp: pasó por Gibson y Broadway y siguió por la I-40 de Juan Tabo hasta Vía Las Cruces, todo limpio.",
+   "lat": 35.06094,
+   "lon": -106.64521,
+   "geocoded_as": "Broadway Blvd SE & Gibson Blvd SE"
+  },
+  {
+   "post_id": "wa-20261110-1404-arenal-unser",
+   "url": "",
+   "time_local": "2026-11-10 14:04",
+   "date": "2026-11-10",
+   "type": "info",
+   "location": "Arenal Rd SW y Unser Blvd SW",
+   "summary": "Reporte de WhatsApp: vecina pregunta si una camioneta sin chaleco que tocó en la casa del vecino en Arenal y Unser era del ICE; otros en el grupo dicen que era la DEA.",
+   "lat": 35.05315,
+   "lon": -106.72186,
+   "geocoded_as": "Arenal Rd SW & Unser Blvd SW"
+  },
+  {
+   "post_id": "wa-20261110-1419-zuni-san-pedro",
+   "url": "",
+   "time_local": "2026-11-10 14:19",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Zuni Rd SE y San Pedro Dr SE",
+   "summary": "Reporte de WhatsApp: pasó por Zuni y San Pedro, tranquilo por ahorita.",
+   "lat": 35.07278,
+   "lon": -106.57745,
+   "geocoded_as": "San Pedro Dr SE & Zuni Rd SE"
+  },
+  {
+   "post_id": "wa-20261110-1421-2nd-rio-bravo",
+   "url": "",
+   "time_local": "2026-11-10 14:21",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "2nd St SW y Río Bravo Blvd SW",
+   "summary": "Reporte de WhatsApp: está en la 2nda y Río Bravo, nada, todo bien en la gasolinera.",
+   "lat": 35.0271,
+   "lon": -106.65822,
+   "geocoded_as": "2nd St SW & Rio Bravo Blvd SE & Rio Bravo Blvd SW"
+  },
+  {
+   "post_id": "wa-20261110-1434-i40-unser",
+   "url": "",
+   "time_local": "2026-11-10 14:34",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Unser Blvd, de I-40 a Blake Rd (pin en Unser y Blake)",
+   "summary": "Reporte de WhatsApp: la I-40 y Unser hasta Blake está libre.",
+   "lat": 35.0385,
+   "lon": -106.72802,
+   "geocoded_as": "Blake Rd SW & Unser Blvd SW"
+  },
+  {
+   "post_id": "wa-20261110-1523-2nd-rio-bravo",
+   "url": "",
+   "time_local": "2026-11-10 15:23",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "2nd St SW y Río Bravo Blvd SW",
+   "summary": "Reporte de WhatsApp: avisan que están en la 2nda y Río Bravo, bloqueada la calle residencial.",
+   "lat": 35.0271,
+   "lon": -106.65822,
+   "geocoded_as": "2nd St SW & Rio Bravo Blvd SE & Rio Bravo Blvd SW"
+  },
+  {
+   "post_id": "wa-20261110-1524-blake-unser",
+   "url": "",
+   "time_local": "2026-11-10 15:24",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "Blake Rd SW y Unser Blvd SW",
+   "summary": "Reporte de WhatsApp: migra en Blake y Unser, en el semáforo rumbo a la 98 por Blake; una camioneta negra y otra blanca.",
+   "lat": 35.0385,
+   "lon": -106.72802,
+   "geocoded_as": "Blake Rd SW & Unser Blvd SW"
+  },
+  {
+   "post_id": "wa-20261110-1529-atrisco-central",
+   "url": "",
+   "time_local": "2026-11-10 15:29",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Atrisco Dr SW y Central Ave",
+   "summary": "Reporte de WhatsApp: el Súper de Atrisco y Central libre.",
+   "lat": 35.08574,
+   "lon": -106.68477,
+   "geocoded_as": "Atrisco Dr SW & Central Ave"
+  },
+  {
+   "post_id": "wa-20261110-1533-98th-sage",
+   "url": "",
+   "time_local": "2026-11-10 15:33",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "98th St SW y Sage Rd SW",
+   "summary": "Reporte de WhatsApp: 98 y Sage limpio, desde el Walmart no se mira nada.",
+   "lat": 35.05575,
+   "lon": -106.74062,
+   "geocoded_as": "98th St SW & Sage Rd SW"
+  },
+  {
+   "post_id": "wa-20261110-1550-98th-sage",
+   "url": "",
+   "time_local": "2026-11-10 15:50",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "98th St SW y Sage Rd SW",
+   "summary": "Reporte de WhatsApp: dos trocas blancas en la 98 y Sage, pasando poquito la Sage enfrente del Walmart, con varias personas adentro; la persona que avisa no está segura.",
+   "lat": 35.05575,
+   "lon": -106.74062,
+   "geocoded_as": "98th St SW & Sage Rd SW"
+  },
+  {
+   "post_id": "2318433572224292",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318433572224292/",
+   "time_local": "2026-11-10 13:54",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "Central Ave y Utah St NE",
+   "summary": "Reporte: avistamiento en Central y Utah, alrededor de la 1:54 PM.",
+   "lat": 35.07446,
+   "lon": -106.55482,
+   "geocoded_as": "Central Ave & Utah St NE"
+  },
+  {
+   "post_id": "2318425535558429",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318425535558429/",
+   "time_local": "2026-11-10 13:41",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "San Mateo Blvd SE y Kathryn Ave SE",
+   "summary": "Reporte: presencia reportada en San Mateo y Kathryn, frente al Dairy Queen, alrededor de la 1:41 PM.",
+   "lat": 35.06558,
+   "lon": -106.58639,
+   "geocoded_as": "Kathryn Ave SE & San Mateo Blvd SE"
+  },
+  {
+   "post_id": "2318442925556690",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318442925556690/",
+   "time_local": "2026-11-10 14:08",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "Central Ave y Pennsylvania St NE",
+   "summary": "Reporte: agentes vistos en Central y Pennsylvania, alrededor de las 2:08 PM; quien reporta no está seguro si son de la DEA o de ICE.",
+   "lat": 35.07493,
+   "lon": -106.55921,
+   "geocoded_as": "Central Ave & Pennsylvania St NE"
+  },
+  {
+   "post_id": "2318505122217137",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318505122217137/",
+   "time_local": "2026-11-10 15:49",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "Isleta Blvd SW y Rio Bravo Blvd SW",
+   "summary": "Reporte: avistamiento en Río Bravo e Isleta, alrededor de las 3:50 PM.",
+   "lat": 35.02681,
+   "lon": -106.68044,
+   "geocoded_as": "Isleta Blvd SW & Rio Bravo Blvd SW"
+  },
+  {
+   "post_id": "2318500878884228",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318500878884228/",
+   "time_local": "2026-11-10 15:42",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "Coors Blvd NW y Montaño Rd NW",
+   "summary": "Reporte: avistamiento en Coors y Montaño, alrededor de las 3:30 PM; otros reportes de la zona mencionan unas 4 camionetas entre las 3:25 y las 3:50 PM.",
+   "lat": 35.14953,
+   "lon": -106.68623,
+   "geocoded_as": "Coors Blvd NW & Montano Rd NW"
+  },
+  {
+   "post_id": "fb2-20261110-1242-illescas-old-coors-sage",
+   "url": "",
+   "time_local": "2026-11-10 12:42",
+   "date": "2026-11-10",
+   "type": "help",
+   "location": "Old Coors Dr SW y Sage Rd SW",
+   "summary": "Reporte de Illescas San Luis Potosí: piden ayuda para identificar al dueño de una troca en Old Coors y Sage, porque migración se llevó a una persona y quieren avisar a su familia.",
+   "lat": 35.06118,
+   "lon": -106.70355,
+   "geocoded_as": "Old Coors Dr SW & Rosendo Garcia Rd SW & Sage Rd SW"
+  },
+  {
+   "post_id": "2318524895548493",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318524895548493/",
+   "time_local": "2026-11-10 16:18",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Unser Blvd NW y Paseo del Norte Blvd NW",
+   "summary": "Reporte: tramo libre desde Unser y Paseo del Norte hasta Central y Unser, alrededor de las 4:18 PM; se puede transitar con seguridad.",
+   "lat": 35.18396,
+   "lon": -106.7202,
+   "geocoded_as": "Paseo del Norte NW & Unser Blvd NW"
+  },
+  {
+   "post_id": "2318593815541601",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318593815541601/",
+   "time_local": "2026-11-10 18:08",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Montgomery Blvd NE y Wyoming Blvd NE",
+   "summary": "Reporte: todo bien en Montgomery y Wyoming, alrededor de las 6:08 PM.",
+   "lat": 35.13062,
+   "lon": -106.55111,
+   "geocoded_as": "Montgomery Blvd NE & Wyoming Blvd NE"
+  },
+  {
+   "post_id": "2318571012210548",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318571012210548/",
+   "time_local": "2026-11-10 17:43",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "Zuni Rd SE y California St SE",
+   "summary": "Reporte: piden confirmar 3 camionetas paradas sobre California hacia Acoma, con personas de verde abajo, alrededor de las 5:43 PM. Sin confirmar.",
+   "lat": 35.07274,
+   "lon": -106.57525,
+   "geocoded_as": "Zuni Rd SE & California St SE"
+  },
+  {
+   "post_id": "2318547708879545",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318547708879545/",
+   "time_local": "2026-11-10 16:55",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Juan Tabo Blvd NE y Spain Rd NE",
+   "summary": "Reporte: Juan Tabo limpio desde Spain hacia la I-40, alrededor de las 4:55 PM.",
+   "lat": 35.14185,
+   "lon": -106.51747,
+   "geocoded_as": "Juan Tabo Blvd NE & Spain Rd NE"
+  },
+  {
+   "post_id": "2318546272213022",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318546272213022/",
+   "time_local": "2026-11-10 16:52",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "Coors Blvd NW y Montaño Rd NW",
+   "summary": "Reporte: confirman que siguen en Montaño y Coors a las 4:45 PM, según un familiar que pasó a verificar.",
+   "lat": 35.14953,
+   "lon": -106.68623,
+   "geocoded_as": "Coors Blvd NW & Montano Rd NW"
+  },
+  {
+   "post_id": "2318558895545093",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318558895545093/",
+   "time_local": "2026-11-10 17:15",
+   "date": "2026-11-10",
+   "type": "info",
+   "location": "Hilton Garden Inn Albuquerque Uptown",
+   "summary": "Reporte: según la publicación, este hotel estaría hospedando a agentes de migración; piden dejar reseñas negativas. No verificado por otras fuentes.",
+   "lat": 35.09999,
+   "lon": -106.57301,
+   "geocoded_as": "Hilton Garden Inn Albuquerque Uptown"
+  },
+  {
+   "post_id": "wa-20261110-1601-coors-rio-bravo",
+   "url": "",
+   "time_local": "2026-11-10 16:01",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "Coors Blvd SW y Río Bravo Blvd SW",
+   "summary": "Reporte de WhatsApp: una troca negra de ICE por Coors y Río Bravo, con un carro pitando para avisar.",
+   "lat": 35.02716,
+   "lon": -106.71393,
+   "geocoded_as": "Coors Blvd SW & Rio Bravo Blvd SW"
+  },
+  {
+   "post_id": "wa-20261110-1605-coors-montano",
+   "url": "",
+   "time_local": "2026-11-10 16:05",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location": "Coors Blvd NW y Montaño Rd NW",
+   "summary": "Reporte de WhatsApp: están en Coors y Montaño, por el Walgreens.",
+   "lat": 35.14953,
+   "lon": -106.68623,
+   "geocoded_as": "Coors Blvd NW & Montano Rd NW"
+  },
+  {
+   "post_id": "wa-20261110-1603-lomas-san-pedro",
+   "url": "",
+   "time_local": "2026-11-10 16:03",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Lomas Blvd NE y San Pedro Dr NE",
+   "summary": "Reporte de WhatsApp: todo limpio por Lomas, de San Pedro a Eubank.",
+   "lat": 35.08727,
+   "lon": -106.57745,
+   "geocoded_as": "Lomas Blvd NE & San Pedro Dr NE, Albuquerque, NM, United States"
+  },
+  {
+   "post_id": "wa-20261110-1603-bridge-isleta",
+   "url": "",
+   "time_local": "2026-11-10 16:03",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Bridge Blvd SW y Isleta Blvd SW",
+   "summary": "Reporte de WhatsApp: Bridge limpio, de la I-25 hasta Isleta.",
+   "lat": 35.06833,
+   "lon": -106.66657,
+   "geocoded_as": "Bridge Blvd SW & Isleta Blvd SW"
+  },
+  {
+   "post_id": "wa-20261110-1604-edith-osuna",
+   "url": "",
+   "time_local": "2026-11-10 16:04",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Edith Blvd NE y Osuna Rd NE",
+   "summary": "Reporte de WhatsApp: limpio Edith y Osuna.",
+   "lat": 35.15128,
+   "lon": -106.6233,
+   "geocoded_as": "Edith Blvd NE & Osuna Rd NE, Albuquerque, NM, United States"
+  },
+  {
+   "post_id": "wa-20261110-1612-sage-coors",
+   "url": "",
+   "time_local": "2026-11-10 16:12",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Sage Rd SW y Coors Blvd SW",
+   "summary": "Reporte de WhatsApp: Sage y Coors libre, no hay nada.",
+   "lat": 35.06029,
+   "lon": -106.70803,
+   "geocoded_as": "Coors Blvd SW & Sage Rd SW"
+  },
+  {
+   "post_id": "wa-20261110-1615-2nd-rossmoor",
+   "url": "",
+   "time_local": "2026-11-10 16:15",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "2nd St SW y Rossmoor Ave SW",
+   "summary": "Reporte de WhatsApp: 2nd y Rossmoor, ya se fueron.",
+   "lat": 35.0297,
+   "lon": -106.65775,
+   "geocoded_as": "2nd St SW & Rossmoor Ave SW, Albuquerque, NM 87105, United States"
+  },
+  {
+   "post_id": "wa-20261110-1622-louisiana-central",
+   "url": "",
+   "time_local": "2026-11-10 16:22",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Louisiana Blvd SE y Central Ave SE",
+   "summary": "Reporte de WhatsApp: libre de Coors y la I-40 hasta Louisiana y Central; también limpio de Louisiana y Central hasta Wyoming.",
+   "lat": 35.07579,
+   "lon": -106.56857,
+   "geocoded_as": "Central Ave SE & Louisiana Blvd SE"
+  },
+  {
+   "post_id": "wa-20261110-1638-isleta-rio-bravo",
+   "url": "",
+   "time_local": "2026-11-10 16:38",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Isleta Blvd SW y Río Bravo Blvd SW",
+   "summary": "Reporte de WhatsApp: Isleta y Río Bravo limpio.",
+   "lat": 35.02681,
+   "lon": -106.68044,
+   "geocoded_as": "Isleta Blvd SW & Rio Bravo Blvd SW"
+  },
+  {
+   "post_id": "wa-20261110-1642-comanche-san-mateo",
+   "url": "",
+   "time_local": "2026-11-10 16:42",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Comanche Rd NE y San Mateo Blvd NE",
+   "summary": "Reporte de WhatsApp: Comanche y San Mateo limpio.",
+   "lat": 35.1233,
+   "lon": -106.58656,
+   "geocoded_as": "Comanche Rd NE & San Mateo Blvd NE, Albuquerque, NM 87110, United States"
+  },
+  {
+   "post_id": "wa-20261110-1648-coors-tower",
+   "url": "",
+   "time_local": "2026-11-10 16:48",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Coors Blvd SW y Tower Rd SW",
+   "summary": "Reporte de WhatsApp: Coors y Tower limpio.",
+   "lat": 35.06606,
+   "lon": -106.71039,
+   "geocoded_as": "Coors Blvd SW & Tower Rd SW"
+  },
+  {
+   "post_id": "wa-20261110-1649-2nd-alameda",
+   "url": "",
+   "time_local": "2026-11-10 16:49",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "2nd St NW y Alameda Blvd NW",
+   "summary": "Reporte de WhatsApp: 2nd y Alameda libre, solo se vio policía.",
+   "lat": 35.18807,
+   "lon": -106.61395,
+   "geocoded_as": "2nd St NW & Alameda Blvd NW, Albuquerque, NM 87114, United States"
+  },
+  {
+   "post_id": "wa-20261110-1728-blake-isleta",
+   "url": "",
+   "time_local": "2026-11-10 17:28",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Blake Rd SW y Isleta Blvd SW",
+   "summary": "Reporte de WhatsApp: libre de Blake a Isleta y de ahí hasta el Mezquite.",
+   "lat": 35.03832,
+   "lon": -106.67949,
+   "geocoded_as": "Blake Rd SW & Isleta Blvd SW"
+  },
+  {
+   "post_id": "wa-20261110-1736-central-washington",
+   "url": "",
+   "time_local": "2026-11-10 17:36",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Central Ave SE y Washington St SE",
+   "summary": "Reporte de WhatsApp: Central claro, de Washington a Wyoming.",
+   "lat": 35.07871,
+   "lon": -106.59534,
+   "geocoded_as": "Central Ave & Washington St SE, Albuquerque, NM 87108, United States"
+  },
+  {
+   "post_id": "wa-20261110-1831-central-atrisco",
+   "url": "",
+   "time_local": "2026-11-10 18:31",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Central Ave y Atrisco Dr SW",
+   "summary": "Reporte de WhatsApp: Central y Atrisco, por el Súper, todo tranquilo.",
+   "lat": 35.08574,
+   "lon": -106.68477,
+   "geocoded_as": "Atrisco Dr SW & Central Ave"
+  },
+  {
+   "post_id": "wa-20261110-1833-montano-unser",
+   "url": "",
+   "time_local": "2026-11-10 18:33",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Montaño Rd NW y Unser Blvd NW",
+   "summary": "Reporte de WhatsApp: Montaño y Unser sin movimiento.",
+   "lat": 35.15234,
+   "lon": -106.71721,
+   "geocoded_as": "Montano Rd NW & Unser Blvd NW, Albuquerque, NM 87120, United States"
+  },
+  {
+   "post_id": "wa-20261110-1855-coors-dellyne",
+   "url": "",
+   "time_local": "2026-11-10 18:55",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location": "Coors Blvd NW y Dellyne Ave NW",
+   "summary": "Reporte de WhatsApp: despejado Coors, de Dellyne hasta Ventana Ranch.",
+   "lat": 35.14512,
+   "lon": -106.69287,
+   "geocoded_as": "Coors Blvd NW & Dellyne Ave NW, Albuquerque, NM 87120, United States"
   }
  ],
  "archive": [
+  {
+   "post_id": "2318610728873243",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318610728873243/",
+   "time_local": "2026-11-10 18:35",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location_hint": "Meadow Lake",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 0
+  },
+  {
+   "post_id": "2318601532207496",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318601532207496/",
+   "time_local": "2026-11-10 18:20",
+   "date": "2026-11-10",
+   "type": "sin-texto",
+   "location_hint": "",
+   "has_text": false,
+   "reacts": 7,
+   "comments": 1
+  },
+  {
+   "post_id": "2318593815541601",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318593815541601/",
+   "time_local": "2026-11-10 18:08",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location_hint": "Wyoming, Montgomery",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 0
+  },
+  {
+   "post_id": "2318590855541897",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318590855541897/",
+   "time_local": "2026-11-10 18:03",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location_hint": "",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 0
+  },
+  {
+   "post_id": "2318587678875548",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318587678875548/",
+   "time_local": "2026-11-10 17:58",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "Central, San Pedro",
+   "has_text": true,
+   "reacts": 4,
+   "comments": 1
+  },
+  {
+   "post_id": "2318581748876141",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318581748876141/",
+   "time_local": "2026-11-10 17:48",
+   "date": "2026-11-10",
+   "type": "sin-texto",
+   "location_hint": "",
+   "has_text": false,
+   "reacts": 57,
+   "comments": 7
+  },
+  {
+   "post_id": "2318571012210548",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318571012210548/",
+   "time_local": "2026-11-10 17:33",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location_hint": "Zuni, Acoma",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 1
+  },
+  {
+   "post_id": "2318570165543966",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318570165543966/",
+   "time_local": "2026-11-10 17:32",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 5
+  },
+  {
+   "post_id": "2318568612210788",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318568612210788/",
+   "time_local": "2026-11-10 17:29",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location_hint": "Meadow Lake",
+   "has_text": true,
+   "reacts": 29,
+   "comments": 5
+  },
+  {
+   "post_id": "2318564178877898",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318564178877898/",
+   "time_local": "2026-11-10 17:22",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "Coors",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 1
+  },
+  {
+   "post_id": "2318558895545093",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318558895545093/",
+   "time_local": "2026-11-10 17:14",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location_hint": "",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 14
+  },
+  {
+   "post_id": "2318556335545349",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318556335545349/",
+   "time_local": "2026-11-10 17:09",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location_hint": "Los Lunas",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 1
+  },
+  {
+   "post_id": "2318553918878924",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318553918878924/",
+   "time_local": "2026-11-10 17:06",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location_hint": "",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 0
+  },
+  {
+   "post_id": "2318553522212297",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318553522212297/",
+   "time_local": "2026-11-10 17:05",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 2
+  },
+  {
+   "post_id": "2318552185545764",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318552185545764/",
+   "time_local": "2026-11-10 17:03",
+   "date": "2026-11-10",
+   "type": "sin-texto",
+   "location_hint": "",
+   "has_text": false,
+   "reacts": 6,
+   "comments": 0
+  },
+  {
+   "post_id": "2318547738879542",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318547738879542/",
+   "time_local": "2026-11-10 16:55",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location_hint": "",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 3
+  },
+  {
+   "post_id": "2318547708879545",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318547708879545/",
+   "time_local": "2026-11-10 16:55",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location_hint": "Juan Tabo",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 1
+  },
+  {
+   "post_id": "2318546272213022",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318546272213022/",
+   "time_local": "2026-11-10 16:52",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location_hint": "Coors, Montaño",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 3
+  },
+  {
+   "post_id": "2318546052213044",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318546052213044/",
+   "time_local": "2026-11-10 16:52",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "Central, Coors, Louisiana",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 3
+  },
+  {
+   "post_id": "2318537458880570",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318537458880570/",
+   "time_local": "2026-11-10 16:39",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location_hint": "",
+   "has_text": true,
+   "reacts": 92,
+   "comments": 11
+  },
+  {
+   "post_id": "2318532182214431",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318532182214431/",
+   "time_local": "2026-11-10 16:31",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "",
+   "has_text": true,
+   "reacts": 7,
+   "comments": 6
+  },
+  {
+   "post_id": "2318524895548493",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318524895548493/",
+   "time_local": "2026-11-10 16:18",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location_hint": "Central, Unser, Paseo",
+   "has_text": true,
+   "reacts": 16,
+   "comments": 3
+  },
+  {
+   "post_id": "2318519262215723",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318519262215723/",
+   "time_local": "2026-11-10 16:08",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location_hint": "Los Lunas",
+   "has_text": true,
+   "reacts": 7,
+   "comments": 6
+  },
+  {
+   "post_id": "2318511495549833",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318511495549833/",
+   "time_local": "2026-11-10 16:00",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "",
+   "has_text": true,
+   "reacts": 58,
+   "comments": 6
+  },
+  {
+   "post_id": "2318509192216730",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318509192216730/",
+   "time_local": "2026-11-10 15:56",
+   "date": "2026-11-10",
+   "type": "sin-texto",
+   "location_hint": "",
+   "has_text": false,
+   "reacts": 5,
+   "comments": 3
+  },
+  {
+   "post_id": "2318506072217042",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318506072217042/",
+   "time_local": "2026-11-10 15:53",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location_hint": "Isleta",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 0
+  },
+  {
+   "post_id": "2318506632216986",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318506632216986/",
+   "time_local": "2026-11-10 15:51",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "Central, Wyoming",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 0
+  },
+  {
+   "post_id": "2318506048883711",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318506048883711/",
+   "time_local": "2026-11-10 15:50",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "Coors, Montaño",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 1
+  },
+  {
+   "post_id": "2318505665550416",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318505665550416/",
+   "time_local": "2026-11-10 15:50",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "Rio Bravo, Isleta",
+   "has_text": true,
+   "reacts": 29,
+   "comments": 4
+  },
+  {
+   "post_id": "2318505122217137",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318505122217137/",
+   "time_local": "2026-11-10 15:49",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "Rio Bravo, Isleta",
+   "has_text": true,
+   "reacts": 26,
+   "comments": 0
+  },
+  {
+   "post_id": "2318500975550885",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318500975550885/",
+   "time_local": "2026-11-10 15:42",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "Coors, Montaño",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 0
+  },
+  {
+   "post_id": "2318500878884228",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318500878884228/",
+   "time_local": "2026-11-10 15:42",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location_hint": "Coors",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 3
+  },
+  {
+   "post_id": "2318500048884311",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318500048884311/",
+   "time_local": "2026-11-10 15:40",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "Coors, Montaño",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 1
+  },
+  {
+   "post_id": "2318474082220241",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318474082220241/",
+   "time_local": "2026-11-10 15:00",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "",
+   "has_text": true,
+   "reacts": 0,
+   "comments": 10
+  },
+  {
+   "post_id": "2318471885553794",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318471885553794/",
+   "time_local": "2026-11-10 14:56",
+   "date": "2026-11-10",
+   "type": "sin-texto",
+   "location_hint": "",
+   "has_text": false,
+   "reacts": 16,
+   "comments": 2
+  },
+  {
+   "post_id": "2318451248889191",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318451248889191/",
+   "time_local": "2026-11-10 14:21",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "",
+   "has_text": true,
+   "reacts": 8,
+   "comments": 3
+  },
+  {
+   "post_id": "2318447405556242",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318447405556242/",
+   "time_local": "2026-11-10 14:16",
+   "date": "2026-11-10",
+   "type": "sin-texto",
+   "location_hint": "",
+   "has_text": false,
+   "reacts": 17,
+   "comments": 2
+  },
+  {
+   "post_id": "2318445932223056",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318445932223056/",
+   "time_local": "2026-11-10 14:13",
+   "date": "2026-11-10",
+   "type": "sin-texto",
+   "location_hint": "",
+   "has_text": false,
+   "reacts": 1,
+   "comments": 0
+  },
+  {
+   "post_id": "2318444832223166",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318444832223166/",
+   "time_local": "2026-11-10 14:11",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "",
+   "has_text": true,
+   "reacts": 2,
+   "comments": 0
+  },
+  {
+   "post_id": "2318442925556690",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318442925556690/",
+   "time_local": "2026-11-10 14:08",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "Central",
+   "has_text": true,
+   "reacts": 14,
+   "comments": 4
+  },
+  {
+   "post_id": "2318440962223553",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318440962223553/",
+   "time_local": "2026-11-10 14:05",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location_hint": "Central, Vermont",
+   "has_text": true,
+   "reacts": 11,
+   "comments": 13
+  },
+  {
+   "post_id": "2318438332223816",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318438332223816/",
+   "time_local": "2026-11-10 14:01",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location_hint": "",
+   "has_text": true,
+   "reacts": 9,
+   "comments": 5
+  },
+  {
+   "post_id": "2318433572224292",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318433572224292/",
+   "time_local": "2026-11-10 13:54",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location_hint": "Central",
+   "has_text": true,
+   "reacts": 12,
+   "comments": 0
+  },
+  {
+   "post_id": "2318430525557930",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318430525557930/",
+   "time_local": "2026-11-10 13:49",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location_hint": "Bridge",
+   "has_text": true,
+   "reacts": 37,
+   "comments": 11
+  },
+  {
+   "post_id": "2318428835558099",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318428835558099/",
+   "time_local": "2026-11-10 13:47",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location_hint": "",
+   "has_text": true,
+   "reacts": 10,
+   "comments": 2
+  },
+  {
+   "post_id": "2318425535558429",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318425535558429/",
+   "time_local": "2026-11-10 13:41",
+   "date": "2026-11-10",
+   "type": "info",
+   "location_hint": "San Mateo",
+   "has_text": true,
+   "reacts": 59,
+   "comments": 1
+  },
+  {
+   "post_id": "2318425085558474",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318425085558474/",
+   "time_local": "2026-11-10 13:41",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location_hint": "Central, Vermont",
+   "has_text": true,
+   "reacts": 13,
+   "comments": 8
+  },
+  {
+   "post_id": "2318424135558569",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318424135558569/",
+   "time_local": "2026-11-10 13:39",
+   "date": "2026-11-10",
+   "type": "alert",
+   "location_hint": "Los Lunas, I-25",
+   "has_text": true,
+   "reacts": 40,
+   "comments": 2
+  },
+  {
+   "post_id": "2318411565559826",
+   "url": "https://facebook.com/groups/2292669074800742/permalink/2318411565559826/",
+   "time_local": "2026-11-10 13:20",
+   "date": "2026-11-10",
+   "type": "all-clear",
+   "location_hint": "",
+   "has_text": true,
+   "reacts": 14,
+   "comments": 9
+  },
   {
    "post_id": "2318409738893342",
    "url": "https://facebook.com/groups/2292669074800742/permalink/2318409738893342/",
@@ -1866,8 +2873,8 @@
    "type": "alert",
    "location_hint": "Gibson",
    "has_text": true,
-   "reacts": 14,
-   "comments": 6
+   "reacts": 31,
+   "comments": 5
   },
   {
    "post_id": "2318404728893843",
@@ -1888,8 +2895,8 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 4,
-   "comments": 6
+   "reacts": 11,
+   "comments": 9
   },
   {
    "post_id": "2318394838894832",
@@ -1910,8 +2917,8 @@
    "type": "alert",
    "location_hint": "",
    "has_text": true,
-   "reacts": 10,
-   "comments": 2
+   "reacts": 34,
+   "comments": 5
   },
   {
    "post_id": "2318373065563676",
@@ -1921,8 +2928,8 @@
    "type": "alert",
    "location_hint": "Isleta",
    "has_text": true,
-   "reacts": 38,
-   "comments": 3
+   "reacts": 77,
+   "comments": 7
   },
   {
    "post_id": "2318371455563837",
@@ -1932,8 +2939,8 @@
    "type": "alert",
    "location_hint": "",
    "has_text": true,
-   "reacts": 15,
-   "comments": 5
+   "reacts": 21,
+   "comments": 6
   },
   {
    "post_id": "2318370865563896",
@@ -1976,8 +2983,8 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 7,
-   "comments": 6
+   "reacts": 13,
+   "comments": 10
   },
   {
    "post_id": "2318352915565691",
@@ -1998,8 +3005,8 @@
    "type": "alert",
    "location_hint": "",
    "has_text": true,
-   "reacts": 38,
-   "comments": 14
+   "reacts": 54,
+   "comments": 18
   },
   {
    "post_id": "2318346102233039",
@@ -2031,8 +3038,8 @@
    "type": "info",
    "location_hint": "Coors, Sage",
    "has_text": true,
-   "reacts": 47,
-   "comments": 5
+   "reacts": 62,
+   "comments": 6
   },
   {
    "post_id": "2318341302233519",
@@ -2053,7 +3060,7 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 20,
+   "reacts": 27,
    "comments": 1
   },
   {
@@ -2064,7 +3071,7 @@
    "type": "alert",
    "location_hint": "Coors, Sage",
    "has_text": true,
-   "reacts": 37,
+   "reacts": 42,
    "comments": 8
   },
   {
@@ -2108,8 +3115,8 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 31,
-   "comments": 1
+   "reacts": 40,
+   "comments": 4
   },
   {
    "post_id": "2318318025569180",
@@ -2152,7 +3159,7 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 12,
+   "reacts": 17,
    "comments": 2
   },
   {
@@ -2174,7 +3181,7 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 16,
+   "reacts": 18,
    "comments": 1
   },
   {
@@ -2196,7 +3203,7 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 4,
+   "reacts": 6,
    "comments": 0
   },
   {
@@ -2207,7 +3214,7 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 11,
+   "reacts": 12,
    "comments": 2
   },
   {
@@ -2251,8 +3258,8 @@
    "type": "alert",
    "location_hint": "",
    "has_text": true,
-   "reacts": 23,
-   "comments": 35
+   "reacts": 28,
+   "comments": 41
   },
   {
    "post_id": "2318242565576726",
@@ -2284,7 +3291,7 @@
    "type": "all-clear",
    "location_hint": "Coors, Rio Bravo, Blake",
    "has_text": true,
-   "reacts": 3,
+   "reacts": 4,
    "comments": 0
   },
   {
@@ -2361,7 +3368,7 @@
    "type": "alert",
    "location_hint": "Broadway",
    "has_text": true,
-   "reacts": 51,
+   "reacts": 55,
    "comments": 11
   },
   {
@@ -2373,7 +3380,7 @@
    "location_hint": "",
    "has_text": true,
    "reacts": 23,
-   "comments": 10
+   "comments": 11
   },
   {
    "post_id": "2318195412248108",
@@ -2383,7 +3390,7 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 18,
+   "reacts": 19,
    "comments": 5
   },
   {
@@ -2413,10 +3420,10 @@
    "url": "https://facebook.com/groups/2292669074800742/permalink/2318190965581886/",
    "time_local": "2026-11-10 08:42",
    "date": "2026-11-10",
-   "type": "info",
+   "type": "alert",
    "location_hint": "Broadway",
    "has_text": true,
-   "reacts": 55,
+   "reacts": 58,
    "comments": 17
   },
   {
@@ -2461,7 +3468,7 @@
    "location_hint": "",
    "has_text": true,
    "reacts": 30,
-   "comments": 10
+   "comments": 13
   },
   {
    "post_id": "2318151962252453",
@@ -2703,7 +3710,7 @@
    "location_hint": "",
    "has_text": true,
    "reacts": 11,
-   "comments": 0
+   "comments": 1
   },
   {
    "post_id": "2317651078969208",
@@ -3527,8 +4534,8 @@
    "type": "info",
    "location_hint": "",
    "has_text": true,
-   "reacts": 140,
-   "comments": 18
+   "reacts": 146,
+   "comments": 22
   },
   {
    "post_id": "2316665119067804",
@@ -3593,8 +4600,8 @@
    "type": "sin-texto",
    "location_hint": "",
    "has_text": false,
-   "reacts": 436,
-   "comments": 44
+   "reacts": 458,
+   "comments": 52
   },
   {
    "post_id": "2316406315760351",
@@ -3714,8 +4721,8 @@
    "type": "alert",
    "location_hint": "",
    "has_text": true,
-   "reacts": 51,
-   "comments": 15
+   "reacts": 52,
+   "comments": 19
   },
   {
    "post_id": "2315406879193628",
