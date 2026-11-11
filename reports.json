@@ -1,5 +1,5 @@
 {
- "generated_at_mst": "2026-11-10 19:37 MST",
+ "generated_at_mst": "2026-11-10 19:35 MST",
  "group": {
   "name": "Limones Verdes Albuquerque",
   "id": "2292669074800742",
@@ -13,11 +13,11 @@
   "last": "2026-11-09"
  },
  "counts": {
-  "mapped_last_7d": 191,
-  "mapped_last_3d": 178,
+  "mapped_last_7d": 174,
+  "mapped_last_3d": 161,
   "posts_last_7d": 283,
   "posts_last_3d": 248,
-  "unmappable_last_7d": 90,
+  "unmappable_last_7d": 107,
   "unpinned_last_7d": 3
  },
  "entries": [
@@ -2108,210 +2108,6 @@
    "lat": 35.09999,
    "lon": -106.57301,
    "geocoded_as": "Hilton Garden Inn Albuquerque Uptown"
-  },
-  {
-   "post_id": "wa-20261110-1601-coors-rio-bravo",
-   "url": "",
-   "time_local": "2026-11-10 16:01",
-   "date": "2026-11-10",
-   "type": "alert",
-   "location": "Coors Blvd SW y Río Bravo Blvd SW",
-   "summary": "Reporte de WhatsApp: una troca negra de ICE por Coors y Río Bravo, con un carro pitando para avisar.",
-   "lat": 35.02716,
-   "lon": -106.71393,
-   "geocoded_as": "Coors Blvd SW & Rio Bravo Blvd SW"
-  },
-  {
-   "post_id": "wa-20261110-1605-coors-montano",
-   "url": "",
-   "time_local": "2026-11-10 16:05",
-   "date": "2026-11-10",
-   "type": "alert",
-   "location": "Coors Blvd NW y Montaño Rd NW",
-   "summary": "Reporte de WhatsApp: están en Coors y Montaño, por el Walgreens.",
-   "lat": 35.14953,
-   "lon": -106.68623,
-   "geocoded_as": "Coors Blvd NW & Montano Rd NW"
-  },
-  {
-   "post_id": "wa-20261110-1603-lomas-san-pedro",
-   "url": "",
-   "time_local": "2026-11-10 16:03",
-   "date": "2026-11-10",
-   "type": "all-clear",
-   "location": "Lomas Blvd NE y San Pedro Dr NE",
-   "summary": "Reporte de WhatsApp: todo limpio por Lomas, de San Pedro a Eubank.",
-   "lat": 35.08727,
-   "lon": -106.57745,
-   "geocoded_as": "Lomas Blvd NE & San Pedro Dr NE, Albuquerque, NM, United States"
-  },
-  {
-   "post_id": "wa-20261110-1603-bridge-isleta",
-   "url": "",
-   "time_local": "2026-11-10 16:03",
-   "date": "2026-11-10",
-   "type": "all-clear",
-   "location": "Bridge Blvd SW y Isleta Blvd SW",
-   "summary": "Reporte de WhatsApp: Bridge limpio, de la I-25 hasta Isleta.",
-   "lat": 35.06833,
-   "lon": -106.66657,
-   "geocoded_as": "Bridge Blvd SW & Isleta Blvd SW"
-  },
-  {
-   "post_id": "wa-20261110-1604-edith-osuna",
-   "url": "",
-   "time_local": "2026-11-10 16:04",
-   "date": "2026-11-10",
-   "type": "all-clear",
-   "location": "Edith Blvd NE y Osuna Rd NE",
-   "summary": "Reporte de WhatsApp: limpio Edith y Osuna.",
-   "lat": 35.15128,
-   "lon": -106.6233,
-   "geocoded_as": "Edith Blvd NE & Osuna Rd NE, Albuquerque, NM, United States"
-  },
-  {
-   "post_id": "wa-20261110-1612-sage-coors",
-   "url": "",
-   "time_local": "2026-11-10 16:12",
-   "date": "2026-11-10",
-   "type": "all-clear",
-   "location": "Sage Rd SW y Coors Blvd SW",
-   "summary": "Reporte de WhatsApp: Sage y Coors libre, no hay nada.",
-   "lat": 35.06029,
-   "lon": -106.70803,
-   "geocoded_as": "Coors Blvd SW & Sage Rd SW"
-  },
-  {
-   "post_id": "wa-20261110-1615-2nd-rossmoor",
-   "url": "",
-   "time_local": "2026-11-10 16:15",
-   "date": "2026-11-10",
-   "type": "all-clear",
-   "location": "2nd St SW y Rossmoor Ave SW",
-   "summary": "Reporte de WhatsApp: 2nd y Rossmoor, ya se fueron.",
-   "lat": 35.0297,
-   "lon": -106.65775,
-   "geocoded_as": "2nd St SW & Rossmoor Ave SW, Albuquerque, NM 87105, United States"
-  },
-  {
-   "post_id": "wa-20261110-1622-louisiana-central",
-   "url": "",
-   "time_local": "2026-11-10 16:22",
-   "date": "2026-11-10",
-   "type": "all-clear",
-   "location": "Louisiana Blvd SE y Central Ave SE",
-   "summary": "Reporte de WhatsApp: libre de Coors y la I-40 hasta Louisiana y Central; también limpio de Louisiana y Central hasta Wyoming.",
-   "lat": 35.07579,
-   "lon": -106.56857,
-   "geocoded_as": "Central Ave SE & Louisiana Blvd SE"
-  },
-  {
-   "post_id": "wa-20261110-1638-isleta-rio-bravo",
-   "url": "",
-   "time_local": "2026-11-10 16:38",
-   "date": "2026-11-10",
-   "type": "all-clear",
-   "location": "Isleta Blvd SW y Río Bravo Blvd SW",
-   "summary": "Reporte de WhatsApp: Isleta y Río Bravo limpio.",
-   "lat": 35.02681,
-   "lon": -106.68044,
-   "geocoded_as": "Isleta Blvd SW & Rio Bravo Blvd SW"
-  },
-  {
-   "post_id": "wa-20261110-1642-comanche-san-mateo",
-   "url": "",
-   "time_local": "2026-11-10 16:42",
-   "date": "2026-11-10",
-   "type": "all-clear",
-   "location": "Comanche Rd NE y San Mateo Blvd NE",
-   "summary": "Reporte de WhatsApp: Comanche y San Mateo limpio.",
-   "lat": 35.1233,
-   "lon": -106.58656,
-   "geocoded_as": "Comanche Rd NE & San Mateo Blvd NE, Albuquerque, NM 87110, United States"
-  },
-  {
-   "post_id": "wa-20261110-1648-coors-tower",
-   "url": "",
-   "time_local": "2026-11-10 16:48",
-   "date": "2026-11-10",
-   "type": "all-clear",
-   "location": "Coors Blvd SW y Tower Rd SW",
-   "summary": "Reporte de WhatsApp: Coors y Tower limpio.",
-   "lat": 35.06606,
-   "lon": -106.71039,
-   "geocoded_as": "Coors Blvd SW & Tower Rd SW"
-  },
-  {
-   "post_id": "wa-20261110-1649-2nd-alameda",
-   "url": "",
-   "time_local": "2026-11-10 16:49",
-   "date": "2026-11-10",
-   "type": "all-clear",
-   "location": "2nd St NW y Alameda Blvd NW",
-   "summary": "Reporte de WhatsApp: 2nd y Alameda libre, solo se vio policía.",
-   "lat": 35.18807,
-   "lon": -106.61395,
-   "geocoded_as": "2nd St NW & Alameda Blvd NW, Albuquerque, NM 87114, United States"
-  },
-  {
-   "post_id": "wa-20261110-1728-blake-isleta",
-   "url": "",
-   "time_local": "2026-11-10 17:28",
-   "date": "2026-11-10",
-   "type": "all-clear",
-   "location": "Blake Rd SW y Isleta Blvd SW",
-   "summary": "Reporte de WhatsApp: libre de Blake a Isleta y de ahí hasta el Mezquite.",
-   "lat": 35.03832,
-   "lon": -106.67949,
-   "geocoded_as": "Blake Rd SW & Isleta Blvd SW"
-  },
-  {
-   "post_id": "wa-20261110-1736-central-washington",
-   "url": "",
-   "time_local": "2026-11-10 17:36",
-   "date": "2026-11-10",
-   "type": "all-clear",
-   "location": "Central Ave SE y Washington St SE",
-   "summary": "Reporte de WhatsApp: Central claro, de Washington a Wyoming.",
-   "lat": 35.07871,
-   "lon": -106.59534,
-   "geocoded_as": "Central Ave & Washington St SE, Albuquerque, NM 87108, United States"
-  },
-  {
-   "post_id": "wa-20261110-1831-central-atrisco",
-   "url": "",
-   "time_local": "2026-11-10 18:31",
-   "date": "2026-11-10",
-   "type": "all-clear",
-   "location": "Central Ave y Atrisco Dr SW",
-   "summary": "Reporte de WhatsApp: Central y Atrisco, por el Súper, todo tranquilo.",
-   "lat": 35.08574,
-   "lon": -106.68477,
-   "geocoded_as": "Atrisco Dr SW & Central Ave"
-  },
-  {
-   "post_id": "wa-20261110-1833-montano-unser",
-   "url": "",
-   "time_local": "2026-11-10 18:33",
-   "date": "2026-11-10",
-   "type": "all-clear",
-   "location": "Montaño Rd NW y Unser Blvd NW",
-   "summary": "Reporte de WhatsApp: Montaño y Unser sin movimiento.",
-   "lat": 35.15234,
-   "lon": -106.71721,
-   "geocoded_as": "Montano Rd NW & Unser Blvd NW, Albuquerque, NM 87120, United States"
-  },
-  {
-   "post_id": "wa-20261110-1855-coors-dellyne",
-   "url": "",
-   "time_local": "2026-11-10 18:55",
-   "date": "2026-11-10",
-   "type": "all-clear",
-   "location": "Coors Blvd NW y Dellyne Ave NW",
-   "summary": "Reporte de WhatsApp: despejado Coors, de Dellyne hasta Ventana Ranch.",
-   "lat": 35.14512,
-   "lon": -106.69287,
-   "geocoded_as": "Coors Blvd NW & Dellyne Ave NW, Albuquerque, NM 87120, United States"
   }
  ],
  "archive": [
